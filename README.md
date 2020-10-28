@@ -1,2 +1,2 @@
 # ds-and-ml
-ipynb files for pandas intro and exercise
+ipynb files for ds and ml intro and exercise

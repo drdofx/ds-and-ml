@@ -1,2 +1,2 @@
 # ds-and-ml
-ipynb files for ds and ml intro and exercise
+Repo for data science related stuff

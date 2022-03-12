@@ -1,9 +1,12 @@
 import requests
 # import shutil
 import urllib
+import os
 
-url = "https://api.mangadex.org/at-home/server/8873f979-177a-498a-a40b-3481ceac4bd5?forcePort443=false"
-mangaUrl = "https://api.mangadex.org/chapter/8873f979-177a-498a-a40b-3481ceac4bd5?includes[]=manga"
+url = input("Enter the URL of the manga: ")
+# url = "https://api.mangadex.org/at-home/server/f3fe6db4-916c-404b-8b26-4eb24981d5e7?forcePort443=false"
+mangaUrl = input("Enter the URL of the manga info: ")
+# mangaUrl = "https://api.mangadex.org/chapter/f3fe6db4-916c-404b-8b26-4eb24981d5e7?includes[]=scanlation_group&includes[]=manga&includes[]=user"
 
 payload={}
 headers = {}
@@ -18,6 +21,14 @@ baseUrl = data['baseUrl']
 pageData = data["chapter"]["data"]
 hashParam = data["chapter"]["hash"]
 mangaName = mangaData["data"]["relationships"][1]["attributes"]["title"]["en"]
+mangaVol = mangaData["data"]["attributes"]["volume"]
+
+if mangaVol:
+    path = mangaName + "/vol-" + mangaVol
+    os.makedirs(path, exist_ok=True)
+else:
+    path = mangaName
+    os.makedirs(path, exist_ok=True)
 
 for i in range(len(pageData)):
     url = f"{baseUrl}/data/{hashParam}/{pageData[i]}"
@@ -29,4 +40,7 @@ for i in range(len(pageData)):
     # with open(f"./example/page{i}.png", 'wb') as out_file:
     #     shutil.copyfileobj(response.raw, out_file)
     # del response
-    urllib.request.urlretrieve(url, f"./example/{mangaName}_{i}.png")
+    if mangaVol:
+        urllib.request.urlretrieve(url, f"./{path}/page-{i+1}.png")
+    else:
+        urllib.request.urlretrieve(url, f"./{path}/page-{i+1}.png")

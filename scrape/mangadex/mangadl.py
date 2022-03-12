@@ -20,7 +20,12 @@ mangaData = mangaResponse.json()
 baseUrl = data['baseUrl']
 pageData = data["chapter"]["data"]
 hashParam = data["chapter"]["hash"]
-mangaName = mangaData["data"]["relationships"][1]["attributes"]["title"]["en"]
+
+for i in range(len(mangaData["data"]["relationships"])):
+    if mangaData["data"]["relationships"][i]["type"] == "manga":
+        mangaName = mangaData["data"]["relationships"][i]["attributes"]["title"]["en"]
+        break
+
 mangaVol = mangaData["data"]["attributes"]["volume"]
 
 if mangaVol:

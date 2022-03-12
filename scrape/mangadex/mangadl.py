@@ -40,7 +40,4 @@ for i in range(len(pageData)):
     # with open(f"./example/page{i}.png", 'wb') as out_file:
     #     shutil.copyfileobj(response.raw, out_file)
     # del response
-    if mangaVol:
-        urllib.request.urlretrieve(url, f"./{path}/page-{i+1}.png")
-    else:
-        urllib.request.urlretrieve(url, f"./{path}/page-{i+1}.png")
+    urllib.request.urlretrieve(url, f"./{path}/page-{i+1}.png")

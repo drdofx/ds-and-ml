@@ -6,7 +6,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Aug 17, 1993",
             "age": "29",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Portugal",
             "market_value": "\u20ac45.00m"
         },
         {
@@ -15,7 +15,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Nov 6, 1992",
             "age": "30",
-            "nationality": "Germany",
+            "nationality": "Germany, Spain",
             "market_value": "\u20ac6.00m"
         },
         {
@@ -42,7 +42,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Feb 18, 1995",
             "age": "28",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Cote d'Ivoire",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -60,7 +60,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 27, 1994",
             "age": "28",
-            "nationality": "Spain",
+            "nationality": "Spain, France",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -69,7 +69,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jul 19, 1995",
             "age": "27",
-            "nationality": "Switzerland",
+            "nationality": "Switzerland, Nigeria",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -87,7 +87,7 @@
             "position": "Left-Back",
             "date_of_birth": "Jul 17, 1994",
             "age": "28",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": ""
         },
         {
@@ -123,7 +123,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Dec 2, 1995",
             "age": "27",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -132,7 +132,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Jan 7, 2003",
             "age": "20",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Spain",
             "market_value": "\u20ac10.00m"
         },
         {
@@ -186,7 +186,7 @@
             "position": "Left Winger",
             "date_of_birth": "Sep 10, 1995",
             "age": "27",
-            "nationality": "England",
+            "nationality": "England, Ireland",
             "market_value": "\u20ac70.00m"
         },
         {
@@ -195,7 +195,7 @@
             "position": "Right Winger",
             "date_of_birth": "Feb 21, 1991",
             "age": "32",
-            "nationality": "Algeria",
+            "nationality": "Algeria, France",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -204,7 +204,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jul 21, 2000",
             "age": "22",
-            "nationality": "Norway",
+            "nationality": "Norway, England",
             "market_value": "\u20ac170.00m"
         },
         {
@@ -224,7 +224,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Mar 1, 1992",
             "age": "31",
-            "nationality": "Senegal",
+            "nationality": "Senegal, Guinea-Bissau",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -242,7 +242,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "May 15, 2004",
             "age": "18",
-            "nationality": "United States",
+            "nationality": "United States, Poland",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -251,7 +251,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "May 24, 1992",
             "age": "30",
-            "nationality": "England",
+            "nationality": "England, Italy",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -260,7 +260,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Dec 17, 2000",
             "age": "22",
-            "nationality": "France",
+            "nationality": "France, Cote d'Ivoire",
             "market_value": "\u20ac65.00m"
         },
         {
@@ -269,7 +269,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Mar 26, 2001",
             "age": "21",
-            "nationality": "France",
+            "nationality": "France, DR Congo",
             "market_value": "\u20ac40.00m"
         },
         {
@@ -278,7 +278,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jun 20, 1991",
             "age": "31",
-            "nationality": "Senegal",
+            "nationality": "Senegal, France",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -287,7 +287,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jul 5, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Sierra Leone",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -296,7 +296,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Sep 22, 1984",
             "age": "38",
-            "nationality": "Brazil",
+            "nationality": "Brazil, France",
             "market_value": "\u20ac2.50m"
         },
         {
@@ -350,7 +350,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Mar 29, 1991",
             "age": "31",
-            "nationality": "France",
+            "nationality": "France, Mali",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -359,7 +359,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Nov 20, 1996",
             "age": "26",
-            "nationality": "Switzerland",
+            "nationality": "Switzerland, DR Congo",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -395,7 +395,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Jan 23, 1996",
             "age": "27",
-            "nationality": "England",
+            "nationality": "England, Guyana",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -404,7 +404,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Oct 20, 2003",
             "age": "19",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -440,7 +440,7 @@
             "position": "Left Winger",
             "date_of_birth": "Dec 8, 1994",
             "age": "28",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac60.00m"
         },
         {
@@ -449,7 +449,7 @@
             "position": "Right Winger",
             "date_of_birth": "Sep 18, 1998",
             "age": "24",
-            "nationality": "United States",
+            "nationality": "United States, Croatia",
             "market_value": "\u20ac32.00m"
         },
         {
@@ -458,7 +458,7 @@
             "position": "Right Winger",
             "date_of_birth": "Mar 10, 2002",
             "age": "21",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -467,7 +467,7 @@
             "position": "Right Winger",
             "date_of_birth": "Mar 19, 1993",
             "age": "30",
-            "nationality": "Morocco",
+            "nationality": "Morocco, Netherlands",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -485,7 +485,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Sep 10, 2001",
             "age": "21",
-            "nationality": "Albania",
+            "nationality": "Albania, England",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -503,7 +503,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jun 18, 1989",
             "age": "33",
-            "nationality": "Gabon",
+            "nationality": "Gabon, France",
             "market_value": "\u20ac7.00m"
         }
     ],
@@ -523,7 +523,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Jun 24, 1994",
             "age": "28",
-            "nationality": "United States",
+            "nationality": "United States, Lithuania",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -532,7 +532,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Mar 24, 2001",
             "age": "21",
-            "nationality": "France",
+            "nationality": "France, Cameroon",
             "market_value": "\u20ac55.00m"
         },
         {
@@ -577,7 +577,7 @@
             "position": "Left-Back",
             "date_of_birth": "Jun 5, 1997",
             "age": "25",
-            "nationality": "Scotland",
+            "nationality": "Scotland, Isle of Man",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -613,7 +613,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Dec 20, 1991",
             "age": "31",
-            "nationality": "Italy",
+            "nationality": "Italy, Brazil",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -667,7 +667,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jun 18, 2001",
             "age": "21",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Italy",
             "market_value": "\u20ac70.00m"
         },
         {
@@ -685,7 +685,7 @@
             "position": "Right Winger",
             "date_of_birth": "Sep 5, 2001",
             "age": "21",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac110.00m"
         },
         {
@@ -694,7 +694,7 @@
             "position": "Right Winger",
             "date_of_birth": "Dec 10, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -712,7 +712,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "May 30, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Ghana",
             "market_value": "\u20ac25.00m"
         }
     ],
@@ -750,7 +750,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jul 8, 1991",
             "age": "31",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Suriname",
             "market_value": "\u20ac45.00m"
         },
         {
@@ -759,7 +759,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 25, 1999",
             "age": "23",
-            "nationality": "France",
+            "nationality": "France, Mali",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -768,7 +768,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 23, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, The Gambia",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -777,7 +777,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Aug 8, 1991",
             "age": "31",
-            "nationality": "Cameroon",
+            "nationality": "Cameroon, Germany",
             "market_value": "\u20ac16.00m"
         },
         {
@@ -795,7 +795,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Feb 3, 2001",
             "age": "22",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -849,7 +849,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Oct 22, 2004",
             "age": "18",
-            "nationality": "Spain",
+            "nationality": "Spain, Serbia",
             "market_value": "\u20ac13.00m"
         },
         {
@@ -858,7 +858,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Apr 11, 1991",
             "age": "31",
-            "nationality": "Spain",
+            "nationality": "Spain, Brazil",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -948,7 +948,7 @@
             "position": "Left Winger",
             "date_of_birth": "May 7, 1999",
             "age": "23",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Togo",
             "market_value": "\u20ac60.00m"
         },
         {
@@ -1031,7 +1031,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Apr 25, 1993",
             "age": "29",
-            "nationality": "France",
+            "nationality": "France, Martinique",
             "market_value": "\u20ac40.00m"
         },
         {
@@ -1067,7 +1067,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Apr 30, 2002",
             "age": "20",
-            "nationality": "England",
+            "nationality": "England, Angola",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -1085,7 +1085,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 17, 1999",
             "age": "23",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Curacao",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -1112,7 +1112,7 @@
             "position": "Right-Back",
             "date_of_birth": "Nov 26, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, DR Congo",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -1121,7 +1121,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Feb 23, 1992",
             "age": "31",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Spain",
             "market_value": "\u20ac50.00m"
         },
         {
@@ -1130,7 +1130,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Dec 8, 1996",
             "age": "26",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1175,7 +1175,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Apr 27, 2003",
             "age": "19",
-            "nationality": "Iraq",
+            "nationality": "Iraq, England",
             "market_value": "\u20ac800k"
         },
         {
@@ -1184,7 +1184,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Apr 19, 2005",
             "age": "17",
-            "nationality": "England",
+            "nationality": "England, Ghana",
             "market_value": "\u20ac800k"
         },
         {
@@ -1202,7 +1202,7 @@
             "position": "Left Winger",
             "date_of_birth": "Oct 31, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, St. Kitts & Nevis",
             "market_value": "\u20ac80.00m"
         },
         {
@@ -1211,7 +1211,7 @@
             "position": "Left Winger",
             "date_of_birth": "Mar 25, 2000",
             "age": "22",
-            "nationality": "England",
+            "nationality": "England, Trinidad and Tobago",
             "market_value": "\u20ac55.00m"
         },
         {
@@ -1220,7 +1220,7 @@
             "position": "Left Winger",
             "date_of_birth": "Apr 27, 2002",
             "age": "20",
-            "nationality": "Sweden",
+            "nationality": "Sweden, Cameroon",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1229,7 +1229,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jul 1, 2004",
             "age": "18",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Spain",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1247,7 +1247,7 @@
             "position": "Right Winger",
             "date_of_birth": "Dec 20, 2001",
             "age": "21",
-            "nationality": "Uruguay",
+            "nationality": "Uruguay, Spain",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -1265,7 +1265,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Dec 5, 1995",
             "age": "27",
-            "nationality": "France",
+            "nationality": "France, Guadeloupe",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -1312,7 +1312,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Jan 8, 1999",
             "age": "24",
-            "nationality": "England",
+            "nationality": "England, United States",
             "market_value": "\u20ac300k"
         },
         {
@@ -1330,7 +1330,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 15, 1994",
             "age": "29",
-            "nationality": "England",
+            "nationality": "England, Portugal",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1357,7 +1357,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Mar 31, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, DR Congo",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -1384,7 +1384,7 @@
             "position": "Right-Back",
             "date_of_birth": "Jan 14, 1999",
             "age": "24",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Spain",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1402,7 +1402,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Aug 5, 1995",
             "age": "27",
-            "nationality": "Denmark",
+            "nationality": "Denmark, France",
             "market_value": "\u20ac45.00m"
         },
         {
@@ -1420,7 +1420,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Aug 30, 1996",
             "age": "26",
-            "nationality": "Mali",
+            "nationality": "Mali, Cote d'Ivoire",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -1465,7 +1465,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jan 31, 1997",
             "age": "26",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Nigeria",
             "market_value": "\u20ac27.00m"
         },
         {
@@ -1474,7 +1474,7 @@
             "position": "Right Winger",
             "date_of_birth": "Apr 25, 2000",
             "age": "22",
-            "nationality": "Sweden",
+            "nationality": "Sweden, North Macedonia",
             "market_value": "\u20ac55.00m"
         },
         {
@@ -1575,7 +1575,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Nov 11, 1993",
             "age": "29",
-            "nationality": "England",
+            "nationality": "England, Barbados",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -1584,7 +1584,7 @@
             "position": "Left-Back",
             "date_of_birth": "Sep 18, 1995",
             "age": "27",
-            "nationality": "England",
+            "nationality": "England, Scotland",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -1593,7 +1593,7 @@
             "position": "Left-Back",
             "date_of_birth": "Jan 25, 1998",
             "age": "25",
-            "nationality": "Northern Ireland",
+            "nationality": "Northern Ireland, England",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -1602,7 +1602,7 @@
             "position": "Left-Back",
             "date_of_birth": "Sep 26, 1991",
             "age": "31",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac1.20m"
         },
         {
@@ -1638,7 +1638,7 @@
             "position": "Right-Back",
             "date_of_birth": "Nov 14, 2001",
             "age": "21",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac1.00m"
         },
         {
@@ -1647,7 +1647,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Nov 16, 1997",
             "age": "25",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Spain",
             "market_value": "\u20ac60.00m"
         },
         {
@@ -1656,7 +1656,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Aug 20, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Montserrat",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -1683,7 +1683,7 @@
             "position": "Right Midfield",
             "date_of_birth": "Sep 10, 1989",
             "age": "33",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac1.80m"
         },
         {
@@ -1701,7 +1701,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Nov 6, 2002",
             "age": "20",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac3.50m"
         },
         {
@@ -1719,7 +1719,7 @@
             "position": "Left Winger",
             "date_of_birth": "Mar 12, 1997",
             "age": "26",
-            "nationality": "France",
+            "nationality": "France, Guadeloupe",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -1755,7 +1755,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Sep 21, 1999",
             "age": "23",
-            "nationality": "Sweden",
+            "nationality": "Sweden, Eritrea",
             "market_value": "\u20ac50.00m"
         },
         {
@@ -1775,7 +1775,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Feb 27, 1993",
             "age": "30",
-            "nationality": "France",
+            "nationality": "France, Philippines",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -1802,7 +1802,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Oct 27, 1994",
             "age": "28",
-            "nationality": "France",
+            "nationality": "France, Central African Republic",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -1811,7 +1811,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Sep 21, 1996",
             "age": "26",
-            "nationality": "Germany",
+            "nationality": "Germany, Burundi",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -1820,7 +1820,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 23, 1988",
             "age": "34",
-            "nationality": "Italy",
+            "nationality": "Italy, Nigeria",
             "market_value": "\u20ac1.00m"
         },
         {
@@ -1829,7 +1829,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 3, 1994",
             "age": "28",
-            "nationality": "Italy",
+            "nationality": "Italy, Brazil",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -1865,7 +1865,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Jan 14, 1999",
             "age": "24",
-            "nationality": "England",
+            "nationality": "England, Ireland",
             "market_value": "\u20ac80.00m"
         },
         {
@@ -1892,7 +1892,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Aug 27, 1997",
             "age": "25",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Portugal",
             "market_value": "\u20ac45.00m"
         },
         {
@@ -1910,7 +1910,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Feb 15, 1993",
             "age": "30",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Italy",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -1919,7 +1919,7 @@
             "position": "Left Winger",
             "date_of_birth": "Aug 10, 1995",
             "age": "27",
-            "nationality": "Algeria",
+            "nationality": "Algeria, France",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -1928,7 +1928,7 @@
             "position": "Left Winger",
             "date_of_birth": "Sep 27, 1996",
             "age": "26",
-            "nationality": "Cote d'Ivoire",
+            "nationality": "Cote d'Ivoire, France",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -1964,7 +1964,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Mar 28, 1990",
             "age": "32",
-            "nationality": "Jamaica",
+            "nationality": "Jamaica, England",
             "market_value": "\u20ac9.00m"
         }
     ],
@@ -2020,7 +2020,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Oct 22, 1998",
             "age": "24",
-            "nationality": "Australia",
+            "nationality": "Australia, Scotland",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -2038,7 +2038,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Aug 3, 1992",
             "age": "30",
-            "nationality": "Denmark",
+            "nationality": "Denmark, Germany",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -2074,7 +2074,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 5, 1989",
             "age": "33",
-            "nationality": "England",
+            "nationality": "England, Egypt",
             "market_value": "\u20ac1.00m"
         },
         {
@@ -2092,7 +2092,7 @@
             "position": "Right-Back",
             "date_of_birth": "Feb 23, 1998",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, St. Lucia",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -2101,7 +2101,7 @@
             "position": "Right-Back",
             "date_of_birth": "Oct 6, 1993",
             "age": "29",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Cape Verde",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -2119,7 +2119,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Feb 27, 1999",
             "age": "24",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -2128,7 +2128,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Jun 23, 1992",
             "age": "30",
-            "nationality": "Senegal",
+            "nationality": "Senegal, France",
             "market_value": "\u20ac3.50m"
         },
         {
@@ -2137,7 +2137,7 @@
             "position": "Central Midfield",
             "date_of_birth": "May 7, 1997",
             "age": "25",
-            "nationality": "Belgium",
+            "nationality": "Belgium, DR Congo",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -2173,7 +2173,7 @@
             "position": "Left Winger",
             "date_of_birth": "Dec 9, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Scotland",
             "market_value": "\u20ac32.00m"
         },
         {
@@ -2220,7 +2220,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Sep 2, 1992",
             "age": "30",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Spain",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -2229,7 +2229,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Jan 8, 1990",
             "age": "33",
-            "nationality": "Sweden",
+            "nationality": "Sweden, Denmark",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -2238,7 +2238,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Sep 23, 1992",
             "age": "30",
-            "nationality": "England",
+            "nationality": "England, Scotland",
             "market_value": "\u20ac600k"
         },
         {
@@ -2256,7 +2256,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Mar 15, 1993",
             "age": "30",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Spain",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -2274,7 +2274,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Oct 23, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, DR Congo",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -2310,7 +2310,7 @@
             "position": "Right-Back",
             "date_of_birth": "Aug 7, 1997",
             "age": "25",
-            "nationality": "Poland",
+            "nationality": "Poland, England",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -2319,7 +2319,7 @@
             "position": "Right-Back",
             "date_of_birth": "Jul 9, 1985",
             "age": "37",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac1.00m"
         },
         {
@@ -2328,7 +2328,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Nov 23, 1999",
             "age": "23",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -2382,7 +2382,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jun 12, 1992",
             "age": "30",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Portugal",
             "market_value": "\u20ac14.00m"
         },
         {
@@ -2391,7 +2391,7 @@
             "position": "Right Winger",
             "date_of_birth": "Dec 25, 1996",
             "age": "26",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Spain",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -2456,7 +2456,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 23, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Ukraine",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -2483,7 +2483,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 16, 1999",
             "age": "24",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Guinea-Bissau",
             "market_value": "\u20ac2.50m"
         },
         {
@@ -2492,7 +2492,7 @@
             "position": "Left-Back",
             "date_of_birth": "Jun 6, 2001",
             "age": "21",
-            "nationality": "Algeria",
+            "nationality": "Algeria, France",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -2519,7 +2519,7 @@
             "position": "Right-Back",
             "date_of_birth": "Nov 16, 1993",
             "age": "29",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Cape Verde",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -2537,7 +2537,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Sep 1, 1993",
             "age": "29",
-            "nationality": "Gabon",
+            "nationality": "Gabon, France",
             "market_value": "\u20ac10.00m"
         },
         {
@@ -2555,7 +2555,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Sep 14, 2002",
             "age": "20",
-            "nationality": "Ireland",
+            "nationality": "Ireland, England",
             "market_value": "\u20ac500k"
         },
         {
@@ -2564,7 +2564,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Aug 27, 1998",
             "age": "24",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Brazil",
             "market_value": "\u20ac45.00m"
         },
         {
@@ -2600,7 +2600,7 @@
             "position": "Left Winger",
             "date_of_birth": "Feb 5, 2000",
             "age": "23",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Cape Verde",
             "market_value": "\u20ac2.50m"
         },
         {
@@ -2627,7 +2627,7 @@
             "position": "Right Winger",
             "date_of_birth": "Jan 25, 1996",
             "age": "27",
-            "nationality": "Spain",
+            "nationality": "Spain, Mali",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -2645,7 +2645,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jul 7, 1997",
             "age": "25",
-            "nationality": "Austria",
+            "nationality": "Austria, Serbia",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -2672,7 +2672,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Oct 7, 1988",
             "age": "34",
-            "nationality": "Spain",
+            "nationality": "Spain, Brazil",
             "market_value": "\u20ac3.50m"
         },
         {
@@ -2692,7 +2692,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Feb 20, 2002",
             "age": "21",
-            "nationality": "Ireland",
+            "nationality": "Ireland, Nigeria",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -2710,7 +2710,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Sep 28, 1981",
             "age": "41",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Spain",
             "market_value": "\u20ac200k"
         },
         {
@@ -2719,7 +2719,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Dec 11, 2001",
             "age": "21",
-            "nationality": "Germany",
+            "nationality": "Germany, Cameroon",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -2755,7 +2755,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Feb 1, 1997",
             "age": "26",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Serbia",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -2791,7 +2791,7 @@
             "position": "Right-Back",
             "date_of_birth": "Nov 12, 2002",
             "age": "20",
-            "nationality": "England",
+            "nationality": "England, Scotland",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -2818,7 +2818,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Mar 8, 1999",
             "age": "24",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -2854,7 +2854,7 @@
             "position": "Right Midfield",
             "date_of_birth": "Aug 29, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -2863,7 +2863,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jul 21, 1996",
             "age": "26",
-            "nationality": "Nigeria",
+            "nationality": "Nigeria, England",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -2908,7 +2908,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jan 28, 2003",
             "age": "20",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -2926,7 +2926,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jul 13, 1996",
             "age": "26",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -2953,7 +2953,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jul 30, 2002",
             "age": "20",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": "\u20ac12.00m"
         }
     ],
@@ -2964,7 +2964,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Nov 18, 1997",
             "age": "25",
-            "nationality": "Spain",
+            "nationality": "Spain, England",
             "market_value": "\u20ac32.00m"
         },
         {
@@ -3018,7 +3018,7 @@
             "position": "Left-Back",
             "date_of_birth": "Jan 21, 1998",
             "age": "25",
-            "nationality": "Ecuador",
+            "nationality": "Ecuador, Spain",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -3027,7 +3027,7 @@
             "position": "Right-Back",
             "date_of_birth": "Sep 30, 2000",
             "age": "22",
-            "nationality": "Ghana",
+            "nationality": "Ghana, England",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -3090,7 +3090,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Oct 6, 2003",
             "age": "19",
-            "nationality": "Sweden",
+            "nationality": "Sweden, Tunisia",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -3108,7 +3108,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Dec 23, 2004",
             "age": "18",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Italy",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -3117,7 +3117,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jun 16, 2002",
             "age": "20",
-            "nationality": "Ecuador",
+            "nationality": "Ecuador, England",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -3162,7 +3162,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Nov 26, 1990",
             "age": "32",
-            "nationality": "England",
+            "nationality": "England, Ghana",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -3171,7 +3171,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jul 19, 1996",
             "age": "26",
-            "nationality": "Germany",
+            "nationality": "Germany, Turkey",
             "market_value": "\u20ac6.00m"
         }
     ],
@@ -3191,7 +3191,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Jun 20, 1987",
             "age": "35",
-            "nationality": "Bosnia-Herzegovina",
+            "nationality": "Bosnia-Herzegovina, Canada",
             "market_value": "\u20ac1.00m"
         },
         {
@@ -3209,7 +3209,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Nov 19, 1992",
             "age": "30",
-            "nationality": "England",
+            "nationality": "England, Poland",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -3227,7 +3227,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 15, 1998",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -3236,7 +3236,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Oct 22, 1996",
             "age": "26",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -3254,7 +3254,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 11, 1993",
             "age": "30",
-            "nationality": "England",
+            "nationality": "England, Ireland",
             "market_value": "\u20ac10.00m"
         },
         {
@@ -3299,7 +3299,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Aug 16, 2001",
             "age": "21",
-            "nationality": "Belgium",
+            "nationality": "Belgium, Senegal",
             "market_value": "\u20ac42.00m"
         },
         {
@@ -3317,7 +3317,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Jan 1, 1993",
             "age": "30",
-            "nationality": "Mali",
+            "nationality": "Mali, France",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -3344,7 +3344,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "May 3, 1996",
             "age": "26",
-            "nationality": "Nigeria",
+            "nationality": "Nigeria, England",
             "market_value": "\u20ac25.00m"
         },
         {
@@ -3353,7 +3353,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jun 28, 1996",
             "age": "26",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -3389,7 +3389,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Aug 14, 1996",
             "age": "26",
-            "nationality": "France",
+            "nationality": "France, Argentina",
             "market_value": "\u20ac13.00m"
         },
         {
@@ -3418,7 +3418,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Dec 15, 1986",
             "age": "36",
-            "nationality": "Costa Rica",
+            "nationality": "Costa Rica, Spain",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -3436,7 +3436,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Mar 8, 1996",
             "age": "27",
-            "nationality": "Senegal",
+            "nationality": "Senegal, France",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -3463,7 +3463,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Feb 3, 1991",
             "age": "32",
-            "nationality": "Cote d'Ivoire",
+            "nationality": "Cote d'Ivoire, France",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -3490,7 +3490,7 @@
             "position": "Left-Back",
             "date_of_birth": "Apr 8, 1998",
             "age": "24",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Italy",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -3499,7 +3499,7 @@
             "position": "Left-Back",
             "date_of_birth": "Feb 15, 1998",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -3553,7 +3553,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Dec 21, 1989",
             "age": "33",
-            "nationality": "Senegal",
+            "nationality": "Senegal, Belgium",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -3571,7 +3571,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Mar 18, 1998",
             "age": "25",
-            "nationality": "Belgium",
+            "nationality": "Belgium, DR Congo",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -3598,7 +3598,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Feb 27, 1992",
             "age": "31",
-            "nationality": "England",
+            "nationality": "England, Ireland",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -3607,7 +3607,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Dec 28, 1989",
             "age": "33",
-            "nationality": "Ireland",
+            "nationality": "Ireland, England",
             "market_value": "\u20ac600k"
         },
         {
@@ -3616,7 +3616,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Feb 26, 1993",
             "age": "30",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Guinea-Bissau",
             "market_value": "\u20ac600k"
         },
         {
@@ -3625,7 +3625,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jan 27, 2000",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -3643,7 +3643,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jan 5, 1994",
             "age": "29",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Italy",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -3652,7 +3652,7 @@
             "position": "Left Winger",
             "date_of_birth": "Dec 17, 1989",
             "age": "33",
-            "nationality": "Ghana",
+            "nationality": "Ghana, France",
             "market_value": "\u20ac2.20m"
         },
         {
@@ -3661,7 +3661,7 @@
             "position": "Left Winger",
             "date_of_birth": "Apr 11, 2002",
             "age": "20",
-            "nationality": "England",
+            "nationality": "England, United States",
             "market_value": "\u20ac600k"
         },
         {
@@ -3670,7 +3670,7 @@
             "position": "Second Striker",
             "date_of_birth": "May 23, 2001",
             "age": "21",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -3715,7 +3715,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Mar 29, 1990",
             "age": "32",
-            "nationality": "Montserrat",
+            "nationality": "Montserrat, England",
             "market_value": "\u20ac350k"
         }
     ],
@@ -3735,7 +3735,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Mar 19, 1995",
             "age": "28",
-            "nationality": "Albania",
+            "nationality": "Albania, Greece",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -3753,7 +3753,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 29, 1993",
             "age": "29",
-            "nationality": "Jamaica",
+            "nationality": "Jamaica, England",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -3780,7 +3780,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Apr 23, 1990",
             "age": "32",
-            "nationality": "Denmark",
+            "nationality": "Denmark, The Gambia",
             "market_value": "\u20ac1.50m"
         },
         {
@@ -3816,7 +3816,7 @@
             "position": "Right-Back",
             "date_of_birth": "Apr 10, 2003",
             "age": "19",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac400k"
         },
         {
@@ -3852,7 +3852,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Oct 23, 1998",
             "age": "24",
-            "nationality": "England",
+            "nationality": "England, Angola",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -3870,7 +3870,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Apr 8, 1998",
             "age": "24",
-            "nationality": "Grenada",
+            "nationality": "Grenada, England",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -3879,7 +3879,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Sep 6, 1993",
             "age": "29",
-            "nationality": "Iran",
+            "nationality": "Iran, Sweden",
             "market_value": "\u20ac2.20m"
         },
         {
@@ -3888,7 +3888,7 @@
             "position": "Left Winger",
             "date_of_birth": "Sep 3, 1996",
             "age": "26",
-            "nationality": "DR Congo",
+            "nationality": "DR Congo, France",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -3915,7 +3915,7 @@
             "position": "Right Winger",
             "date_of_birth": "Aug 7, 1999",
             "age": "23",
-            "nationality": "Cameroon",
+            "nationality": "Cameroon, France",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -3924,7 +3924,7 @@
             "position": "Right Winger",
             "date_of_birth": "Nov 27, 2001",
             "age": "21",
-            "nationality": "Germany",
+            "nationality": "Germany, Nigeria",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -3933,7 +3933,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Mar 16, 1996",
             "age": "27",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac50.00m"
         }
     ],
@@ -3989,7 +3989,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Aug 30, 1991",
             "age": "31",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -3998,7 +3998,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 11, 1999",
             "age": "23",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Belgium",
             "market_value": "\u20ac20.00m"
         },
         {
@@ -4007,7 +4007,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 22, 1996",
             "age": "26",
-            "nationality": "Dominican Republic",
+            "nationality": "Dominican Republic, Spain",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -4115,7 +4115,7 @@
             "position": "Left Winger",
             "date_of_birth": "Nov 5, 2003",
             "age": "19",
-            "nationality": "Italy",
+            "nationality": "Italy, Cote d'Ivoire",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -4124,7 +4124,7 @@
             "position": "Right Winger",
             "date_of_birth": "Oct 30, 2001",
             "age": "21",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Suriname",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -4133,7 +4133,7 @@
             "position": "Second Striker",
             "date_of_birth": "Mar 6, 1991",
             "age": "32",
-            "nationality": "Spain",
+            "nationality": "Spain, Brazil",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -4142,7 +4142,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Apr 20, 2002",
             "age": "20",
-            "nationality": "France",
+            "nationality": "France, Martinique",
             "market_value": "\u20ac22.00m"
         },
         {
@@ -4151,7 +4151,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Sep 5, 1993",
             "age": "29",
-            "nationality": "England",
+            "nationality": "England, Ireland",
             "market_value": "\u20ac10.00m"
         }
     ],
@@ -4189,7 +4189,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jul 13, 2000",
             "age": "22",
-            "nationality": "England",
+            "nationality": "England, Cote d'Ivoire",
             "market_value": "\u20ac35.00m"
         },
         {
@@ -4216,7 +4216,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Oct 6, 2000",
             "age": "22",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -4234,7 +4234,7 @@
             "position": "Left-Back",
             "date_of_birth": "Sep 1, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac28.00m"
         },
         {
@@ -4243,7 +4243,7 @@
             "position": "Right-Back",
             "date_of_birth": "Apr 5, 1991",
             "age": "31",
-            "nationality": "England",
+            "nationality": "England, Grenada",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -4270,7 +4270,7 @@
             "position": "Defensive Midfield",
             "date_of_birth": "Sep 9, 1996",
             "age": "26",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Suriname",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -4288,7 +4288,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Oct 22, 1999",
             "age": "23",
-            "nationality": "Belgium",
+            "nationality": "Belgium, DR Congo",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -4297,7 +4297,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Mar 29, 2002",
             "age": "20",
-            "nationality": "France",
+            "nationality": "France, Comoros",
             "market_value": "\u20ac10.00m"
         },
         {
@@ -4324,7 +4324,7 @@
             "position": "Left Midfield",
             "date_of_birth": "Dec 23, 1992",
             "age": "30",
-            "nationality": "Ghana",
+            "nationality": "Ghana, Germany",
             "market_value": "\u20ac8.00m"
         },
         {
@@ -4333,7 +4333,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jun 29, 1998",
             "age": "24",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac30.00m"
         },
         {
@@ -4342,7 +4342,7 @@
             "position": "Left Winger",
             "date_of_birth": "Nov 10, 1992",
             "age": "30",
-            "nationality": "Cote d'Ivoire",
+            "nationality": "Cote d'Ivoire, England",
             "market_value": "\u20ac27.00m"
         },
         {
@@ -4351,7 +4351,7 @@
             "position": "Right Winger",
             "date_of_birth": "Dec 12, 2001",
             "age": "21",
-            "nationality": "France",
+            "nationality": "France, England",
             "market_value": "\u20ac27.00m"
         },
         {
@@ -4360,7 +4360,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jan 16, 1998",
             "age": "25",
-            "nationality": "France",
+            "nationality": "France, French Guiana",
             "market_value": "\u20ac17.00m"
         },
         {
@@ -4369,7 +4369,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jun 28, 1997",
             "age": "25",
-            "nationality": "France",
+            "nationality": "France, DR Congo",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -4378,7 +4378,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Sep 11, 1991",
             "age": "31",
-            "nationality": "Ghana",
+            "nationality": "Ghana, France",
             "market_value": "\u20ac6.00m"
         }
     ],
@@ -4407,7 +4407,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 9, 1997",
             "age": "26",
-            "nationality": "France",
+            "nationality": "France, Senegal",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -4416,7 +4416,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Sep 24, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac15.00m"
         },
         {
@@ -4425,7 +4425,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Jan 1, 1992",
             "age": "31",
-            "nationality": "Ireland",
+            "nationality": "Ireland, Northern Ireland",
             "market_value": "\u20ac2.50m"
         },
         {
@@ -4443,7 +4443,7 @@
             "position": "Left-Back",
             "date_of_birth": "Aug 8, 1997",
             "age": "25",
-            "nationality": "United States",
+            "nationality": "United States, England",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -4452,7 +4452,7 @@
             "position": "Left-Back",
             "date_of_birth": "Sep 4, 1992",
             "age": "30",
-            "nationality": "France",
+            "nationality": "France, Guadeloupe",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -4461,7 +4461,7 @@
             "position": "Right-Back",
             "date_of_birth": "Oct 9, 1995",
             "age": "27",
-            "nationality": "Netherlands",
+            "nationality": "Netherlands, Mozambique",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -4470,7 +4470,7 @@
             "position": "Right-Back",
             "date_of_birth": "Aug 31, 1991",
             "age": "31",
-            "nationality": "Portugal",
+            "nationality": "Portugal, Germany",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -4506,7 +4506,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Jan 20, 1991",
             "age": "32",
-            "nationality": "Scotland",
+            "nationality": "Scotland, England",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -4515,7 +4515,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Jul 16, 2000",
             "age": "22",
-            "nationality": "Australia",
+            "nationality": "Australia, England",
             "market_value": "\u20ac500k"
         },
         {
@@ -4524,7 +4524,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Jan 1, 1996",
             "age": "27",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Belgium",
             "market_value": "\u20ac16.00m"
         },
         {
@@ -4533,7 +4533,7 @@
             "position": "Attacking Midfield",
             "date_of_birth": "Feb 2, 1993",
             "age": "30",
-            "nationality": "Jamaica",
+            "nationality": "Jamaica, England",
             "market_value": "\u20ac7.00m"
         },
         {
@@ -4542,7 +4542,7 @@
             "position": "Left Winger",
             "date_of_birth": "Jul 24, 1999",
             "age": "23",
-            "nationality": "Israel",
+            "nationality": "Israel, Portugal",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -4551,7 +4551,7 @@
             "position": "Left Winger",
             "date_of_birth": "Mar 10, 1992",
             "age": "31",
-            "nationality": "DR Congo",
+            "nationality": "DR Congo, France",
             "market_value": "\u20ac3.00m"
         },
         {
@@ -4569,7 +4569,7 @@
             "position": "Right Winger",
             "date_of_birth": "Mar 22, 1997",
             "age": "26",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac13.00m"
         },
         {
@@ -4578,7 +4578,7 @@
             "position": "Right Winger",
             "date_of_birth": "Nov 10, 1997",
             "age": "25",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac13.00m"
         },
         {
@@ -4607,7 +4607,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "Jul 19, 1989",
             "age": "33",
-            "nationality": "Brazil",
+            "nationality": "Brazil, Italy",
             "market_value": "\u20ac2.50m"
         },
         {
@@ -4625,7 +4625,7 @@
             "position": "Goalkeeper",
             "date_of_birth": "May 12, 1987",
             "age": "35",
-            "nationality": "Ireland",
+            "nationality": "Ireland, United States",
             "market_value": "\u20ac500k"
         },
         {
@@ -4643,7 +4643,7 @@
             "position": "Centre-Back",
             "date_of_birth": "May 10, 1997",
             "age": "25",
-            "nationality": "Argentina",
+            "nationality": "Argentina, Italy",
             "market_value": "\u20ac17.00m"
         },
         {
@@ -4661,7 +4661,7 @@
             "position": "Centre-Back",
             "date_of_birth": "Nov 5, 1997",
             "age": "25",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac6.00m"
         },
         {
@@ -4679,7 +4679,7 @@
             "position": "Left-Back",
             "date_of_birth": "Nov 9, 1997",
             "age": "25",
-            "nationality": "Uruguay",
+            "nationality": "Uruguay, Italy",
             "market_value": "\u20ac6.00m"
         },
         {
@@ -4688,7 +4688,7 @@
             "position": "Left-Back",
             "date_of_birth": "Nov 14, 1999",
             "age": "23",
-            "nationality": "Zimbabwe",
+            "nationality": "Zimbabwe, England",
             "market_value": "\u20ac4.00m"
         },
         {
@@ -4706,7 +4706,7 @@
             "position": "Right-Back",
             "date_of_birth": "Oct 10, 1992",
             "age": "30",
-            "nationality": "England",
+            "nationality": "England, Scotland",
             "market_value": "\u20ac2.00m"
         },
         {
@@ -4733,7 +4733,7 @@
             "position": "Central Midfield",
             "date_of_birth": "Jun 11, 1996",
             "age": "26",
-            "nationality": "Denmark",
+            "nationality": "Denmark, Nigeria",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -4787,7 +4787,7 @@
             "position": "Left Winger",
             "date_of_birth": "Dec 1, 1999",
             "age": "23",
-            "nationality": "England",
+            "nationality": "England, Jamaica",
             "market_value": "\u20ac5.00m"
         },
         {
@@ -4796,7 +4796,7 @@
             "position": "Left Winger",
             "date_of_birth": "Nov 26, 1989",
             "age": "33",
-            "nationality": "England",
+            "nationality": "England, St. Lucia",
             "market_value": "\u20ac700k"
         },
         {
@@ -4814,7 +4814,7 @@
             "position": "Right Winger",
             "date_of_birth": "Jul 8, 1997",
             "age": "25",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac12.00m"
         },
         {
@@ -4823,7 +4823,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Sep 14, 1997",
             "age": "25",
-            "nationality": "England",
+            "nationality": "England, Nigeria",
             "market_value": "\u20ac18.00m"
         },
         {
@@ -4832,7 +4832,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Jan 7, 2000",
             "age": "23",
-            "nationality": "Ghana",
+            "nationality": "Ghana, England",
             "market_value": "\u20ac9.00m"
         },
         {
@@ -4841,7 +4841,7 @@
             "position": "Centre-Forward",
             "date_of_birth": "Aug 8, 1992",
             "age": "30",
-            "nationality": "Wales",
+            "nationality": "Wales, England",
             "market_value": "\u20ac4.00m"
         }
     ]

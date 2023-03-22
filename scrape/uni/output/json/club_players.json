@@ -1,0 +1,4848 @@
+{
+    "Manchester City": [
+        {
+            "squad_number": "31",
+            "name": "Ederson",
+            "position": "Goalkeeper",
+            "date_of_birth": "Aug 17, 1993",
+            "age": "29",
+            "nationality": "Brazil, Portugal",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Stefan Ortega",
+            "position": "Goalkeeper",
+            "date_of_birth": "Nov 6, 1992",
+            "age": "30",
+            "nationality": "Germany, Spain",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Scott Carson",
+            "position": "Goalkeeper",
+            "date_of_birth": "Sep 3, 1985",
+            "age": "37",
+            "nationality": "England",
+            "market_value": "\u20ac250k"
+        },
+        {
+            "squad_number": "3",
+            "name": "R\u00faben Dias",
+            "position": "Centre-Back",
+            "date_of_birth": "May 14, 1997",
+            "age": "25",
+            "nationality": "Portugal",
+            "market_value": "\u20ac75.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Nathan Ak\u00e9",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 18, 1995",
+            "age": "28",
+            "nationality": "Netherlands, Cote d'Ivoire",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "John Stones",
+            "position": "Centre-Back",
+            "date_of_birth": "May 28, 1994",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Aymeric Laporte",
+            "position": "Centre-Back",
+            "date_of_birth": "May 27, 1994",
+            "age": "28",
+            "nationality": "Spain, France",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Manuel Akanji",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 19, 1995",
+            "age": "27",
+            "nationality": "Switzerland, Nigeria",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Sergio G\u00f3mez",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 4, 2000",
+            "age": "22",
+            "nationality": "Spain",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Benjamin Mendy",
+            "position": "Left-Back",
+            "date_of_birth": "Jul 17, 1994",
+            "age": "28",
+            "nationality": "France, Senegal",
+            "market_value": ""
+        },
+        {
+            "squad_number": "2",
+            "name": "Kyle Walker",
+            "position": "Right-Back",
+            "date_of_birth": "May 28, 1990",
+            "age": "32",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "82",
+            "name": "Rico Lewis",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 21, 2004",
+            "age": "18",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Rodri",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jun 22, 1996",
+            "age": "26",
+            "nationality": "Spain",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Kalvin Phillips",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Dec 2, 1995",
+            "age": "27",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "M\u00e1ximo Perrone",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jan 7, 2003",
+            "age": "20",
+            "nationality": "Argentina, Spain",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Ilkay G\u00fcndogan",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 24, 1990",
+            "age": "32",
+            "nationality": "Germany",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Kevin De Bruyne",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jun 28, 1991",
+            "age": "31",
+            "nationality": "Belgium",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Bernardo Silva",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Aug 10, 1994",
+            "age": "28",
+            "nationality": "Portugal",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "80",
+            "name": "Cole Palmer",
+            "position": "Attacking Midfield",
+            "date_of_birth": "May 6, 2002",
+            "age": "20",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "47",
+            "name": "Phil Foden",
+            "position": "Left Winger",
+            "date_of_birth": "May 28, 2000",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac110.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Jack Grealish",
+            "position": "Left Winger",
+            "date_of_birth": "Sep 10, 1995",
+            "age": "27",
+            "nationality": "England, Ireland",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Riyad Mahrez",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 21, 1991",
+            "age": "32",
+            "nationality": "Algeria, France",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Erling Haaland",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 21, 2000",
+            "age": "22",
+            "nationality": "Norway, England",
+            "market_value": "\u20ac170.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Juli\u00e1n \u00c1lvarez",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 31, 2000",
+            "age": "23",
+            "nationality": "Argentina",
+            "market_value": "\u20ac50.00m"
+        }
+    ],
+    "Chelsea FC": [
+        {
+            "squad_number": "16",
+            "name": "Edouard Mendy",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 1, 1992",
+            "age": "31",
+            "nationality": "Senegal, Guinea-Bissau",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Kepa Arrizabalaga",
+            "position": "Goalkeeper",
+            "date_of_birth": "Oct 3, 1994",
+            "age": "28",
+            "nationality": "Spain",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "36",
+            "name": "Gabriel Slonina",
+            "position": "Goalkeeper",
+            "date_of_birth": "May 15, 2004",
+            "age": "18",
+            "nationality": "United States, Poland",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Marcus Bettinelli",
+            "position": "Goalkeeper",
+            "date_of_birth": "May 24, 1992",
+            "age": "30",
+            "nationality": "England, Italy",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Wesley Fofana",
+            "position": "Centre-Back",
+            "date_of_birth": "Dec 17, 2000",
+            "age": "22",
+            "nationality": "France, Cote d'Ivoire",
+            "market_value": "\u20ac65.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Beno\u00eet Badiashile",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 26, 2001",
+            "age": "21",
+            "nationality": "France, DR Congo",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Kalidou Koulibaly",
+            "position": "Centre-Back",
+            "date_of_birth": "Jun 20, 1991",
+            "age": "31",
+            "nationality": "Senegal, France",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Trevoh Chalobah",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 5, 1999",
+            "age": "23",
+            "nationality": "England, Sierra Leone",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Thiago Silva",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 22, 1984",
+            "age": "38",
+            "nationality": "Brazil, France",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Marc Cucurella",
+            "position": "Left-Back",
+            "date_of_birth": "Jul 22, 1998",
+            "age": "24",
+            "nationality": "Spain",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Ben Chilwell",
+            "position": "Left-Back",
+            "date_of_birth": "Dec 21, 1996",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "67",
+            "name": "Lewis Hall",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 8, 2004",
+            "age": "18",
+            "nationality": "England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Reece James",
+            "position": "Right-Back",
+            "date_of_birth": "Dec 8, 1999",
+            "age": "23",
+            "nationality": "England",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "C\u00e9sar Azpilicueta",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 28, 1989",
+            "age": "33",
+            "nationality": "Spain",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "N'Golo Kant\u00e9",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Mar 29, 1991",
+            "age": "31",
+            "nationality": "France, Mali",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Denis Zakaria",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Nov 20, 1996",
+            "age": "26",
+            "nationality": "Switzerland, DR Congo",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Enzo Fern\u00e1ndez",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 17, 2001",
+            "age": "22",
+            "nationality": "Argentina",
+            "market_value": "\u20ac85.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Mateo Kovacic",
+            "position": "Central Midfield",
+            "date_of_birth": "May 6, 1994",
+            "age": "28",
+            "nationality": "Croatia",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Conor Gallagher",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 6, 2000",
+            "age": "23",
+            "nationality": "England",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Ruben Loftus-Cheek",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 23, 1996",
+            "age": "27",
+            "nationality": "England, Guyana",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Carney Chukwuemeka",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 20, 2003",
+            "age": "19",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Mason Mount",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jan 10, 1999",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac65.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Kai Havertz",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jun 11, 1999",
+            "age": "23",
+            "nationality": "Germany",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Mykhaylo Mudryk",
+            "position": "Left Winger",
+            "date_of_birth": "Jan 5, 2001",
+            "age": "22",
+            "nationality": "Ukraine",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Raheem Sterling",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 8, 1994",
+            "age": "28",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Christian Pulisic",
+            "position": "Right Winger",
+            "date_of_birth": "Sep 18, 1998",
+            "age": "24",
+            "nationality": "United States, Croatia",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Noni Madueke",
+            "position": "Right Winger",
+            "date_of_birth": "Mar 10, 2002",
+            "age": "21",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Hakim Ziyech",
+            "position": "Right Winger",
+            "date_of_birth": "Mar 19, 1993",
+            "age": "30",
+            "nationality": "Morocco, Netherlands",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Jo\u00e3o F\u00e9lix",
+            "position": "Second Striker",
+            "date_of_birth": "Nov 10, 1999",
+            "age": "23",
+            "nationality": "Portugal",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Armando Broja",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 10, 2001",
+            "age": "21",
+            "nationality": "Albania, England",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "David Datro Fofana",
+            "position": "Centre-Forward",
+            "date_of_birth": "Dec 22, 2002",
+            "age": "20",
+            "nationality": "Cote d'Ivoire",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Pierre-Emerick Aubameyang",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jun 18, 1989",
+            "age": "33",
+            "nationality": "Gabon, France",
+            "market_value": "\u20ac7.00m"
+        }
+    ],
+    "Arsenal FC": [
+        {
+            "squad_number": "1",
+            "name": "Aaron Ramsdale",
+            "position": "Goalkeeper",
+            "date_of_birth": "May 14, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Matt Turner",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jun 24, 1994",
+            "age": "28",
+            "nationality": "United States, Lithuania",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "William Saliba",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 24, 2001",
+            "age": "21",
+            "nationality": "France, Cameroon",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Gabriel Magalh\u00e3es",
+            "position": "Centre-Back",
+            "date_of_birth": "Dec 19, 1997",
+            "age": "25",
+            "nationality": "Brazil",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Jakub Kiwior",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 15, 2000",
+            "age": "23",
+            "nationality": "Poland",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Rob Holding",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 20, 1995",
+            "age": "27",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "35",
+            "name": "Oleksandr Zinchenko",
+            "position": "Left-Back",
+            "date_of_birth": "Dec 15, 1996",
+            "age": "26",
+            "nationality": "Ukraine",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Kieran Tierney",
+            "position": "Left-Back",
+            "date_of_birth": "Jun 5, 1997",
+            "age": "25",
+            "nationality": "Scotland, Isle of Man",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Ben White",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 8, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Takehiro Tomiyasu",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 5, 1998",
+            "age": "24",
+            "nationality": "Japan",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Thomas Partey",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jun 13, 1993",
+            "age": "29",
+            "nationality": "Ghana",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Jorginho",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Dec 20, 1991",
+            "age": "31",
+            "nationality": "Italy, Brazil",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Mohamed Elneny",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jul 11, 1992",
+            "age": "30",
+            "nationality": "Egypt",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "34",
+            "name": "Granit Xhaka",
+            "position": "Central Midfield",
+            "date_of_birth": "Sep 27, 1992",
+            "age": "30",
+            "nationality": "Switzerland",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Martin \u00d8degaard",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Dec 17, 1998",
+            "age": "24",
+            "nationality": "Norway",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Emile Smith Rowe",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jul 28, 2000",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "F\u00e1bio Vieira",
+            "position": "Attacking Midfield",
+            "date_of_birth": "May 30, 2000",
+            "age": "22",
+            "nationality": "Portugal",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Gabriel Martinelli",
+            "position": "Left Winger",
+            "date_of_birth": "Jun 18, 2001",
+            "age": "21",
+            "nationality": "Brazil, Italy",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Leandro Trossard",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 4, 1994",
+            "age": "28",
+            "nationality": "Belgium",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Bukayo Saka",
+            "position": "Right Winger",
+            "date_of_birth": "Sep 5, 2001",
+            "age": "21",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac110.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Reiss Nelson",
+            "position": "Right Winger",
+            "date_of_birth": "Dec 10, 1999",
+            "age": "23",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Gabriel Jesus",
+            "position": "Centre-Forward",
+            "date_of_birth": "Apr 3, 1997",
+            "age": "25",
+            "nationality": "Brazil",
+            "market_value": "\u20ac75.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Eddie Nketiah",
+            "position": "Centre-Forward",
+            "date_of_birth": "May 30, 1999",
+            "age": "23",
+            "nationality": "England, Ghana",
+            "market_value": "\u20ac25.00m"
+        }
+    ],
+    "Liverpool FC": [
+        {
+            "squad_number": "1",
+            "name": "Alisson",
+            "position": "Goalkeeper",
+            "date_of_birth": "Oct 2, 1992",
+            "age": "30",
+            "nationality": "Brazil",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "62",
+            "name": "Caoimh\u00edn Kelleher",
+            "position": "Goalkeeper",
+            "date_of_birth": "Nov 23, 1998",
+            "age": "24",
+            "nationality": "Ireland",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Adri\u00e1n",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 3, 1987",
+            "age": "36",
+            "nationality": "Spain",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Virgil van Dijk",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 8, 1991",
+            "age": "31",
+            "nationality": "Netherlands, Suriname",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Ibrahima Konat\u00e9",
+            "position": "Centre-Back",
+            "date_of_birth": "May 25, 1999",
+            "age": "23",
+            "nationality": "France, Mali",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Joe Gomez",
+            "position": "Centre-Back",
+            "date_of_birth": "May 23, 1997",
+            "age": "25",
+            "nationality": "England, The Gambia",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Joel Matip",
+            "position": "Centre-Back",
+            "date_of_birth": "Aug 8, 1991",
+            "age": "31",
+            "nationality": "Cameroon, Germany",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "47",
+            "name": "Nathaniel Phillips",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 21, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "46",
+            "name": "Rhys Williams",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 3, 2001",
+            "age": "22",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Andrew Robertson",
+            "position": "Left-Back",
+            "date_of_birth": "Mar 11, 1994",
+            "age": "29",
+            "nationality": "Scotland",
+            "market_value": "\u20ac48.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Konstantinos Tsimikas",
+            "position": "Left-Back",
+            "date_of_birth": "May 12, 1996",
+            "age": "26",
+            "nationality": "Greece",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "66",
+            "name": "Trent Alexander-Arnold",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 7, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac65.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Calvin Ramsay",
+            "position": "Right-Back",
+            "date_of_birth": "Jul 31, 2003",
+            "age": "19",
+            "nationality": "Scotland",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Fabinho",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Oct 23, 1993",
+            "age": "29",
+            "nationality": "Brazil",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "43",
+            "name": "Stefan Bajcetic",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Oct 22, 2004",
+            "age": "18",
+            "nationality": "Spain, Serbia",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Thiago",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 11, 1991",
+            "age": "31",
+            "nationality": "Spain, Brazil",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Naby Ke\u00efta",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 10, 1995",
+            "age": "28",
+            "nationality": "Guinea",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Curtis Jones",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 30, 2001",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Arthur Melo",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 12, 1996",
+            "age": "26",
+            "nationality": "Brazil",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Jordan Henderson",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 17, 1990",
+            "age": "32",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Alex Oxlade-Chamberlain",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 15, 1993",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "James Milner",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 4, 1986",
+            "age": "37",
+            "nationality": "England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Harvey Elliott",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Apr 4, 2003",
+            "age": "19",
+            "nationality": "England",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "F\u00e1bio Carvalho",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Aug 30, 2002",
+            "age": "20",
+            "nationality": "Portugal",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Luis D\u00edaz",
+            "position": "Left Winger",
+            "date_of_birth": "Jan 13, 1997",
+            "age": "26",
+            "nationality": "Colombia",
+            "market_value": "\u20ac75.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Cody Gakpo",
+            "position": "Left Winger",
+            "date_of_birth": "May 7, 1999",
+            "age": "23",
+            "nationality": "Netherlands, Togo",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Diogo Jota",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 4, 1996",
+            "age": "26",
+            "nationality": "Portugal",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Mohamed Salah",
+            "position": "Right Winger",
+            "date_of_birth": "Jun 15, 1992",
+            "age": "30",
+            "nationality": "Egypt",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Darwin N\u00fa\u00f1ez",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jun 24, 1999",
+            "age": "23",
+            "nationality": "Uruguay",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Roberto Firmino",
+            "position": "Centre-Forward",
+            "date_of_birth": "Oct 2, 1991",
+            "age": "31",
+            "nationality": "Brazil",
+            "market_value": "\u20ac22.00m"
+        }
+    ],
+    "Manchester United": [
+        {
+            "squad_number": "1",
+            "name": "David de Gea",
+            "position": "Goalkeeper",
+            "date_of_birth": "Nov 7, 1990",
+            "age": "32",
+            "nationality": "Spain",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Jack Butland",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 10, 1993",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Tom Heaton",
+            "position": "Goalkeeper",
+            "date_of_birth": "Apr 15, 1986",
+            "age": "36",
+            "nationality": "England",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "6",
+            "name": "Lisandro Mart\u00ednez",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 18, 1998",
+            "age": "25",
+            "nationality": "Argentina",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Rapha\u00ebl Varane",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 25, 1993",
+            "age": "29",
+            "nationality": "France, Martinique",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Harry Maguire",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 5, 1993",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Victor Lindel\u00f6f",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 17, 1994",
+            "age": "28",
+            "nationality": "Sweden",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Phil Jones",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 21, 1992",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "43",
+            "name": "Teden Mengi",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 30, 2002",
+            "age": "20",
+            "nationality": "England, Angola",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Luke Shaw",
+            "position": "Left-Back",
+            "date_of_birth": "Jul 12, 1995",
+            "age": "27",
+            "nationality": "England",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Tyrell Malacia",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 17, 1999",
+            "age": "23",
+            "nationality": "Netherlands, Curacao",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Brandon Williams",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 3, 2000",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Diogo Dalot",
+            "position": "Right-Back",
+            "date_of_birth": "Mar 18, 1999",
+            "age": "24",
+            "nationality": "Portugal",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Aaron Wan-Bissaka",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 26, 1997",
+            "age": "25",
+            "nationality": "England, DR Congo",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Casemiro",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Feb 23, 1992",
+            "age": "31",
+            "nationality": "Brazil, Spain",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "39",
+            "name": "Scott McTominay",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Dec 8, 1996",
+            "age": "26",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Christian Eriksen",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 14, 1992",
+            "age": "31",
+            "nationality": "Denmark",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Marcel Sabitzer",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 17, 1994",
+            "age": "29",
+            "nationality": "Austria",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Fred",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 5, 1993",
+            "age": "30",
+            "nationality": "Brazil",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "34",
+            "name": "Donny van de Beek",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 18, 1997",
+            "age": "25",
+            "nationality": "Netherlands",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "55",
+            "name": "Zidane Iqbal",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 27, 2003",
+            "age": "19",
+            "nationality": "Iraq, England",
+            "market_value": "\u20ac800k"
+        },
+        {
+            "squad_number": "73",
+            "name": "Kobbie Mainoo",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 19, 2005",
+            "age": "17",
+            "nationality": "England, Ghana",
+            "market_value": "\u20ac800k"
+        },
+        {
+            "squad_number": "8",
+            "name": "Bruno Fernandes",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Sep 8, 1994",
+            "age": "28",
+            "nationality": "Portugal",
+            "market_value": "\u20ac75.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Marcus Rashford",
+            "position": "Left Winger",
+            "date_of_birth": "Oct 31, 1997",
+            "age": "25",
+            "nationality": "England, St. Kitts & Nevis",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Jadon Sancho",
+            "position": "Left Winger",
+            "date_of_birth": "Mar 25, 2000",
+            "age": "22",
+            "nationality": "England, Trinidad and Tobago",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "36",
+            "name": "Anthony Elanga",
+            "position": "Left Winger",
+            "date_of_birth": "Apr 27, 2002",
+            "age": "20",
+            "nationality": "Sweden, Cameroon",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "49",
+            "name": "Alejandro Garnacho",
+            "position": "Left Winger",
+            "date_of_birth": "Jul 1, 2004",
+            "age": "18",
+            "nationality": "Argentina, Spain",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Antony",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 24, 2000",
+            "age": "23",
+            "nationality": "Brazil",
+            "market_value": "\u20ac70.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Facundo Pellistri",
+            "position": "Right Winger",
+            "date_of_birth": "Dec 20, 2001",
+            "age": "21",
+            "nationality": "Uruguay, Spain",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Mason Greenwood",
+            "position": "Right Winger",
+            "date_of_birth": "Oct 1, 2001",
+            "age": "21",
+            "nationality": "England",
+            "market_value": ""
+        },
+        {
+            "squad_number": "9",
+            "name": "Anthony Martial",
+            "position": "Centre-Forward",
+            "date_of_birth": "Dec 5, 1995",
+            "age": "27",
+            "nationality": "France, Guadeloupe",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Wout Weghorst",
+            "position": "Centre-Forward",
+            "date_of_birth": "Aug 7, 1992",
+            "age": "30",
+            "nationality": "Netherlands",
+            "market_value": "\u20ac14.00m"
+        }
+    ],
+    "Tottenham Hotspur": [
+        {
+            "squad_number": "1",
+            "name": "Hugo Lloris",
+            "position": "Goalkeeper",
+            "date_of_birth": "Dec 26, 1986",
+            "age": "36",
+            "nationality": "France",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Fraser Forster",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 17, 1988",
+            "age": "35",
+            "nationality": "England",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "41",
+            "name": "Alfie Whiteman",
+            "position": "Goalkeeper",
+            "date_of_birth": "Oct 2, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac500k"
+        },
+        {
+            "squad_number": "40",
+            "name": "Brandon Austin",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 8, 1999",
+            "age": "24",
+            "nationality": "England, United States",
+            "market_value": "\u20ac300k"
+        },
+        {
+            "squad_number": "17",
+            "name": "Cristian Romero",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 27, 1998",
+            "age": "24",
+            "nationality": "Argentina",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Eric Dier",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 15, 1994",
+            "age": "29",
+            "nationality": "England, Portugal",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Davinson S\u00e1nchez",
+            "position": "Centre-Back",
+            "date_of_birth": "Jun 12, 1996",
+            "age": "26",
+            "nationality": "Colombia",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "34",
+            "name": "Cl\u00e9ment Lenglet",
+            "position": "Centre-Back",
+            "date_of_birth": "Jun 17, 1995",
+            "age": "27",
+            "nationality": "France",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Japhet Tanganga",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 31, 1999",
+            "age": "23",
+            "nationality": "England, DR Congo",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Ben Davies",
+            "position": "Left-Back",
+            "date_of_birth": "Apr 24, 1993",
+            "age": "29",
+            "nationality": "Wales",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Pedro Porro",
+            "position": "Right-Back",
+            "date_of_birth": "Sep 13, 1999",
+            "age": "23",
+            "nationality": "Spain",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Emerson Royal",
+            "position": "Right-Back",
+            "date_of_birth": "Jan 14, 1999",
+            "age": "24",
+            "nationality": "Brazil, Spain",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Oliver Skipp",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Sep 16, 2000",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Pierre-Emile H\u00f6jbjerg",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 5, 1995",
+            "age": "27",
+            "nationality": "Denmark, France",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Rodrigo Bentancur",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 25, 1997",
+            "age": "25",
+            "nationality": "Uruguay",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "38",
+            "name": "Yves Bissouma",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 30, 1996",
+            "age": "26",
+            "nationality": "Mali, Cote d'Ivoire",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Pape Matar Sarr",
+            "position": "Central Midfield",
+            "date_of_birth": "Sep 14, 2002",
+            "age": "20",
+            "nationality": "Senegal",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Ryan Sessegnon",
+            "position": "Left Midfield",
+            "date_of_birth": "May 18, 2000",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Ivan Perisic",
+            "position": "Left Midfield",
+            "date_of_birth": "Feb 2, 1989",
+            "age": "34",
+            "nationality": "Croatia",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Heung-min Son",
+            "position": "Left Winger",
+            "date_of_birth": "Jul 8, 1992",
+            "age": "30",
+            "nationality": "Korea, South",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Arnaut Danjuma",
+            "position": "Left Winger",
+            "date_of_birth": "Jan 31, 1997",
+            "age": "26",
+            "nationality": "Netherlands, Nigeria",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Dejan Kulusevski",
+            "position": "Right Winger",
+            "date_of_birth": "Apr 25, 2000",
+            "age": "22",
+            "nationality": "Sweden, North Macedonia",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Lucas Moura",
+            "position": "Right Winger",
+            "date_of_birth": "Aug 13, 1992",
+            "age": "30",
+            "nationality": "Brazil",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Harry Kane",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 28, 1993",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac90.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Richarlison",
+            "position": "Centre-Forward",
+            "date_of_birth": "May 10, 1997",
+            "age": "25",
+            "nationality": "Brazil",
+            "market_value": "\u20ac55.00m"
+        }
+    ],
+    "Newcastle United": [
+        {
+            "squad_number": "22",
+            "name": "Nick Pope",
+            "position": "Goalkeeper",
+            "date_of_birth": "Apr 19, 1992",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Martin D\u00fabravka",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 15, 1989",
+            "age": "34",
+            "nationality": "Slovakia",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Loris Karius",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jun 22, 1993",
+            "age": "29",
+            "nationality": "Germany",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Mark Gillespie",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 27, 1992",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac300k"
+        },
+        {
+            "squad_number": "4",
+            "name": "Sven Botman",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 12, 2000",
+            "age": "23",
+            "nationality": "Netherlands",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Dan Burn",
+            "position": "Centre-Back",
+            "date_of_birth": "May 9, 1992",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Fabian Sch\u00e4r",
+            "position": "Centre-Back",
+            "date_of_birth": "Dec 20, 1991",
+            "age": "31",
+            "nationality": "Switzerland",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Jamaal Lascelles",
+            "position": "Centre-Back",
+            "date_of_birth": "Nov 11, 1993",
+            "age": "29",
+            "nationality": "England, Barbados",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Matt Targett",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 18, 1995",
+            "age": "27",
+            "nationality": "England, Scotland",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Jamal Lewis",
+            "position": "Left-Back",
+            "date_of_birth": "Jan 25, 1998",
+            "age": "25",
+            "nationality": "Northern Ireland, England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Paul Dummett",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 26, 1991",
+            "age": "31",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac1.20m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Kieran Trippier",
+            "position": "Right-Back",
+            "date_of_birth": "Sep 19, 1990",
+            "age": "32",
+            "nationality": "England",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Emil Krafth",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 2, 1994",
+            "age": "28",
+            "nationality": "Sweden",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Javier Manquillo",
+            "position": "Right-Back",
+            "date_of_birth": "May 5, 1994",
+            "age": "28",
+            "nationality": "Spain",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Harrison Ashby",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 14, 2001",
+            "age": "21",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "39",
+            "name": "Bruno Guimar\u00e3es",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Nov 16, 1997",
+            "age": "25",
+            "nationality": "Brazil, Spain",
+            "market_value": "\u20ac60.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Joe Willock",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 20, 1999",
+            "age": "23",
+            "nationality": "England, Montserrat",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "36",
+            "name": "Sean Longstaff",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 30, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "-",
+            "name": "Matty Longstaff",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 21, 2000",
+            "age": "23",
+            "nationality": "England",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Matt Ritchie",
+            "position": "Right Midfield",
+            "date_of_birth": "Sep 10, 1989",
+            "age": "33",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac1.80m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Joelinton",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Aug 14, 1996",
+            "age": "26",
+            "nationality": "Brazil",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Elliot Anderson",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Nov 6, 2002",
+            "age": "20",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Anthony Gordon",
+            "position": "Left Winger",
+            "date_of_birth": "Feb 24, 2001",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Allan Saint-Maximin",
+            "position": "Left Winger",
+            "date_of_birth": "Mar 12, 1997",
+            "age": "26",
+            "nationality": "France, Guadeloupe",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Ryan Fraser",
+            "position": "Left Winger",
+            "date_of_birth": "Feb 24, 1994",
+            "age": "29",
+            "nationality": "Scotland",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Miguel Almir\u00f3n",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 10, 1994",
+            "age": "29",
+            "nationality": "Paraguay",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Jacob Murphy",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 24, 1995",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Alexander Isak",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 21, 1999",
+            "age": "23",
+            "nationality": "Sweden, Eritrea",
+            "market_value": "\u20ac50.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Callum Wilson",
+            "position": "Centre-Forward",
+            "date_of_birth": "Feb 27, 1992",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        }
+    ],
+    "West Ham United": [
+        {
+            "squad_number": "13",
+            "name": "Alphonse Areola",
+            "position": "Goalkeeper",
+            "date_of_birth": "Feb 27, 1993",
+            "age": "30",
+            "nationality": "France, Philippines",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Lukasz Fabianski",
+            "position": "Goalkeeper",
+            "date_of_birth": "Apr 18, 1985",
+            "age": "37",
+            "nationality": "Poland",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Nayef Aguerd",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 30, 1996",
+            "age": "26",
+            "nationality": "Morocco",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Kurt Zouma",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 27, 1994",
+            "age": "28",
+            "nationality": "France, Central African Republic",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Thilo Kehrer",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 21, 1996",
+            "age": "26",
+            "nationality": "Germany, Burundi",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Angelo Ogbonna",
+            "position": "Centre-Back",
+            "date_of_birth": "May 23, 1988",
+            "age": "34",
+            "nationality": "Italy, Nigeria",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Emerson",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 3, 1994",
+            "age": "28",
+            "nationality": "Italy, Brazil",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Aaron Cresswell",
+            "position": "Left-Back",
+            "date_of_birth": "Dec 15, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Ben Johnson",
+            "position": "Right-Back",
+            "date_of_birth": "Jan 24, 2000",
+            "age": "23",
+            "nationality": "England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Vladimir Coufal",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 22, 1992",
+            "age": "30",
+            "nationality": "Czech Republic",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "41",
+            "name": "Declan Rice",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jan 14, 1999",
+            "age": "24",
+            "nationality": "England, Ireland",
+            "market_value": "\u20ac80.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Tomas Soucek",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Feb 27, 1995",
+            "age": "28",
+            "nationality": "Czech Republic",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Flynn Downes",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 20, 1999",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Lucas Paquet\u00e1",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Aug 27, 1997",
+            "age": "25",
+            "nationality": "Brazil, Portugal",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Pablo Fornals",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Feb 22, 1996",
+            "age": "27",
+            "nationality": "Spain",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Manuel Lanzini",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Feb 15, 1993",
+            "age": "30",
+            "nationality": "Argentina, Italy",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Sa\u00efd Benrahma",
+            "position": "Left Winger",
+            "date_of_birth": "Aug 10, 1995",
+            "age": "27",
+            "nationality": "Algeria, France",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Maxwel Cornet",
+            "position": "Left Winger",
+            "date_of_birth": "Sep 27, 1996",
+            "age": "26",
+            "nationality": "Cote d'Ivoire, France",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Jarrod Bowen",
+            "position": "Right Winger",
+            "date_of_birth": "Dec 20, 1996",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Gianluca Scamacca",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 1, 1999",
+            "age": "24",
+            "nationality": "Italy",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Danny Ings",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 23, 1992",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Michail Antonio",
+            "position": "Centre-Forward",
+            "date_of_birth": "Mar 28, 1990",
+            "age": "32",
+            "nationality": "Jamaica, England",
+            "market_value": "\u20ac9.00m"
+        }
+    ],
+    "Leicester City": [
+        {
+            "squad_number": "1",
+            "name": "Danny Ward",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jun 22, 1993",
+            "age": "29",
+            "nationality": "Wales",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Daniel Iversen",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jul 19, 1997",
+            "age": "25",
+            "nationality": "Denmark",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Alex Smithies",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 5, 1990",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "3",
+            "name": "Wout Faes",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 3, 1998",
+            "age": "24",
+            "nationality": "Belgium",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Caglar S\u00f6y\u00fcnc\u00fc",
+            "position": "Centre-Back",
+            "date_of_birth": "May 23, 1996",
+            "age": "26",
+            "nationality": "Turkey",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Harry Souttar",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 22, 1998",
+            "age": "24",
+            "nationality": "Australia, Scotland",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Daniel Amartey",
+            "position": "Centre-Back",
+            "date_of_birth": "Dec 21, 1994",
+            "age": "28",
+            "nationality": "Ghana",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Jannik Vestergaard",
+            "position": "Centre-Back",
+            "date_of_birth": "Aug 3, 1992",
+            "age": "30",
+            "nationality": "Denmark, Germany",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Jonny Evans",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 3, 1988",
+            "age": "35",
+            "nationality": "Northern Ireland",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Victor Kristiansen",
+            "position": "Left-Back",
+            "date_of_birth": "Dec 16, 2002",
+            "age": "20",
+            "nationality": "Denmark",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Luke Thomas",
+            "position": "Left-Back",
+            "date_of_birth": "Jun 10, 2001",
+            "age": "21",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Ryan Bertrand",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 5, 1989",
+            "age": "33",
+            "nationality": "England, Egypt",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Timothy Castagne",
+            "position": "Right-Back",
+            "date_of_birth": "Dec 5, 1995",
+            "age": "27",
+            "nationality": "Belgium",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "James Justin",
+            "position": "Right-Back",
+            "date_of_birth": "Feb 23, 1998",
+            "age": "25",
+            "nationality": "England, St. Lucia",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Ricardo Pereira",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 6, 1993",
+            "age": "29",
+            "nationality": "Portugal, Cape Verde",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Wilfred Ndidi",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Dec 16, 1996",
+            "age": "26",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "42",
+            "name": "Boubakary Soumar\u00e9",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Feb 27, 1999",
+            "age": "24",
+            "nationality": "France, Senegal",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Nampalys Mendy",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jun 23, 1992",
+            "age": "30",
+            "nationality": "Senegal, France",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Youri Tielemans",
+            "position": "Central Midfield",
+            "date_of_birth": "May 7, 1997",
+            "age": "25",
+            "nationality": "Belgium, DR Congo",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Kiernan Dewsbury-Hall",
+            "position": "Central Midfield",
+            "date_of_birth": "Sep 6, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Dennis Praet",
+            "position": "Central Midfield",
+            "date_of_birth": "May 14, 1994",
+            "age": "28",
+            "nationality": "Belgium",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "James Maddison",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Nov 23, 1996",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Harvey Barnes",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 9, 1997",
+            "age": "25",
+            "nationality": "England, Scotland",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "37",
+            "name": "Tet\u00ea",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 15, 2000",
+            "age": "23",
+            "nationality": "Brazil",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Patson Daka",
+            "position": "Centre-Forward",
+            "date_of_birth": "Oct 9, 1998",
+            "age": "24",
+            "nationality": "Zambia",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Kelechi Iheanacho",
+            "position": "Centre-Forward",
+            "date_of_birth": "Oct 3, 1996",
+            "age": "26",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Jamie Vardy",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 11, 1987",
+            "age": "36",
+            "nationality": "England",
+            "market_value": "\u20ac4.00m"
+        }
+    ],
+    "Aston Villa": [
+        {
+            "squad_number": "1",
+            "name": "Emiliano Mart\u00ednez",
+            "position": "Goalkeeper",
+            "date_of_birth": "Sep 2, 1992",
+            "age": "30",
+            "nationality": "Argentina, Spain",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Robin Olsen",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 8, 1990",
+            "age": "33",
+            "nationality": "Sweden, Denmark",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Jed Steer",
+            "position": "Goalkeeper",
+            "date_of_birth": "Sep 23, 1992",
+            "age": "30",
+            "nationality": "England, Scotland",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "38",
+            "name": "Viljami Sinisalo",
+            "position": "Goalkeeper",
+            "date_of_birth": "Oct 11, 2001",
+            "age": "21",
+            "nationality": "Finland",
+            "market_value": "\u20ac400k"
+        },
+        {
+            "squad_number": "3",
+            "name": "Diego Carlos",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 15, 1993",
+            "age": "30",
+            "nationality": "Brazil, Spain",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Tyrone Mings",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 13, 1993",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Ezri Konsa",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 23, 1997",
+            "age": "25",
+            "nationality": "England, DR Congo",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Calum Chambers",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 20, 1995",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "\u00c1lex Moreno",
+            "position": "Left-Back",
+            "date_of_birth": "Jun 8, 1993",
+            "age": "29",
+            "nationality": "Spain",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Lucas Digne",
+            "position": "Left-Back",
+            "date_of_birth": "Jul 20, 1993",
+            "age": "29",
+            "nationality": "France",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Matty Cash",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 7, 1997",
+            "age": "25",
+            "nationality": "Poland, England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Ashley Young",
+            "position": "Right-Back",
+            "date_of_birth": "Jul 9, 1985",
+            "age": "37",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "44",
+            "name": "Boubacar Kamara",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Nov 23, 1999",
+            "age": "23",
+            "nationality": "France, Senegal",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Leander Dendoncker",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Apr 15, 1995",
+            "age": "27",
+            "nationality": "Belgium",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Douglas Luiz",
+            "position": "Central Midfield",
+            "date_of_birth": "May 9, 1998",
+            "age": "24",
+            "nationality": "Brazil",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "41",
+            "name": "Jacob Ramsey",
+            "position": "Central Midfield",
+            "date_of_birth": "May 28, 2001",
+            "age": "21",
+            "nationality": "England",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "John McGinn",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 18, 1994",
+            "age": "28",
+            "nationality": "Scotland",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Leon Bailey",
+            "position": "Left Winger",
+            "date_of_birth": "Aug 9, 1997",
+            "age": "25",
+            "nationality": "Jamaica",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Philippe Coutinho",
+            "position": "Left Winger",
+            "date_of_birth": "Jun 12, 1992",
+            "age": "30",
+            "nationality": "Brazil, Portugal",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Emiliano Buend\u00eda",
+            "position": "Right Winger",
+            "date_of_birth": "Dec 25, 1996",
+            "age": "26",
+            "nationality": "Argentina, Spain",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Bertrand Traor\u00e9",
+            "position": "Right Winger",
+            "date_of_birth": "Sep 6, 1995",
+            "age": "27",
+            "nationality": "Burkina Faso",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Ollie Watkins",
+            "position": "Centre-Forward",
+            "date_of_birth": "Dec 30, 1995",
+            "age": "27",
+            "nationality": "England",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Jhon Dur\u00e1n",
+            "position": "Centre-Forward",
+            "date_of_birth": "Dec 13, 2003",
+            "age": "19",
+            "nationality": "Colombia",
+            "market_value": "\u20ac12.00m"
+        }
+    ],
+    "Wolverhampton Wanderers": [
+        {
+            "squad_number": "1",
+            "name": "Jos\u00e9 S\u00e1",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 17, 1993",
+            "age": "30",
+            "nationality": "Portugal",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Daniel Bentley",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jul 13, 1993",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac1.80m"
+        },
+        {
+            "squad_number": "-",
+            "name": "Louie Moulden",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 6, 2002",
+            "age": "21",
+            "nationality": "England",
+            "market_value": "\u20ac200k"
+        },
+        {
+            "squad_number": "23",
+            "name": "Max Kilman",
+            "position": "Centre-Back",
+            "date_of_birth": "May 23, 1997",
+            "age": "25",
+            "nationality": "England, Ukraine",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Nathan Collins",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 30, 2001",
+            "age": "21",
+            "nationality": "Ireland",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Craig Dawson",
+            "position": "Centre-Back",
+            "date_of_birth": "May 6, 1990",
+            "age": "32",
+            "nationality": "England",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Toti",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 16, 1999",
+            "age": "24",
+            "nationality": "Portugal, Guinea-Bissau",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Rayan A\u00eft-Nouri",
+            "position": "Left-Back",
+            "date_of_birth": "Jun 6, 2001",
+            "age": "21",
+            "nationality": "Algeria, France",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Jonny Otto",
+            "position": "Left-Back",
+            "date_of_birth": "Mar 3, 1994",
+            "age": "29",
+            "nationality": "Spain",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "64",
+            "name": "Hugo Bueno",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 18, 2002",
+            "age": "20",
+            "nationality": "Spain",
+            "market_value": "\u20ac200k"
+        },
+        {
+            "squad_number": "22",
+            "name": "N\u00e9lson Semedo",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 16, 1993",
+            "age": "29",
+            "nationality": "Portugal, Cape Verde",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "R\u00faben Neves",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Mar 13, 1997",
+            "age": "26",
+            "nationality": "Portugal",
+            "market_value": "\u20ac40.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Mario Lemina",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Sep 1, 1993",
+            "age": "29",
+            "nationality": "Gabon, France",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Boubacar Traor\u00e9",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Aug 20, 2001",
+            "age": "21",
+            "nationality": "Mali",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "59",
+            "name": "Joe Hodge",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Sep 14, 2002",
+            "age": "20",
+            "nationality": "Ireland, England",
+            "market_value": "\u20ac500k"
+        },
+        {
+            "squad_number": "27",
+            "name": "Matheus Nunes",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 27, 1998",
+            "age": "24",
+            "nationality": "Portugal, Brazil",
+            "market_value": "\u20ac45.00m"
+        },
+        {
+            "squad_number": "35",
+            "name": "Jo\u00e3o Gomes",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 12, 2001",
+            "age": "22",
+            "nationality": "Brazil",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Jo\u00e3o Moutinho",
+            "position": "Central Midfield",
+            "date_of_birth": "Sep 8, 1986",
+            "age": "36",
+            "nationality": "Portugal",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Daniel Podence",
+            "position": "Left Winger",
+            "date_of_birth": "Oct 21, 1995",
+            "age": "27",
+            "nationality": "Portugal",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Chiquinho",
+            "position": "Left Winger",
+            "date_of_birth": "Feb 5, 2000",
+            "age": "23",
+            "nationality": "Portugal, Cape Verde",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Pedro Neto",
+            "position": "Right Winger",
+            "date_of_birth": "Mar 9, 2000",
+            "age": "23",
+            "nationality": "Portugal",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Pablo Sarabia",
+            "position": "Right Winger",
+            "date_of_birth": "May 11, 1992",
+            "age": "30",
+            "nationality": "Spain",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "37",
+            "name": "Adama Traor\u00e9",
+            "position": "Right Winger",
+            "date_of_birth": "Jan 25, 1996",
+            "age": "27",
+            "nationality": "Spain, Mali",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Matheus Cunha",
+            "position": "Centre-Forward",
+            "date_of_birth": "May 27, 1999",
+            "age": "23",
+            "nationality": "Brazil",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Sasa Kalajdzic",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 7, 1997",
+            "age": "25",
+            "nationality": "Austria, Serbia",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Hee-chan Hwang",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 26, 1996",
+            "age": "27",
+            "nationality": "Korea, South",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Ra\u00fal Jim\u00e9nez",
+            "position": "Centre-Forward",
+            "date_of_birth": "May 5, 1991",
+            "age": "31",
+            "nationality": "Mexico",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Diego Costa",
+            "position": "Centre-Forward",
+            "date_of_birth": "Oct 7, 1988",
+            "age": "34",
+            "nationality": "Spain, Brazil",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "-",
+            "name": "Sang-bin Jeong",
+            "position": "Centre-Forward",
+            "date_of_birth": "Apr 1, 2002",
+            "age": "20",
+            "nationality": "Korea, South",
+            "market_value": "\u20ac850k"
+        }
+    ],
+    "Southampton FC": [
+        {
+            "squad_number": "31",
+            "name": "Gavin Bazunu",
+            "position": "Goalkeeper",
+            "date_of_birth": "Feb 20, 2002",
+            "age": "21",
+            "nationality": "Ireland, Nigeria",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Alex McCarthy",
+            "position": "Goalkeeper",
+            "date_of_birth": "Dec 3, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Willy Caballero",
+            "position": "Goalkeeper",
+            "date_of_birth": "Sep 28, 1981",
+            "age": "41",
+            "nationality": "Argentina, Spain",
+            "market_value": "\u20ac200k"
+        },
+        {
+            "squad_number": "37",
+            "name": "Armel Bella-Kotchap",
+            "position": "Centre-Back",
+            "date_of_birth": "Dec 11, 2001",
+            "age": "21",
+            "nationality": "Germany, Cameroon",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Mohammed Salisu",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 17, 1999",
+            "age": "23",
+            "nationality": "Ghana",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Duje Caleta-Car",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 17, 1996",
+            "age": "26",
+            "nationality": "Croatia",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "35",
+            "name": "Jan Bednarek",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 12, 1996",
+            "age": "26",
+            "nationality": "Poland",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Lyanco",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 1, 1997",
+            "age": "26",
+            "nationality": "Brazil, Serbia",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Romain Perraud",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 22, 1997",
+            "age": "25",
+            "nationality": "France",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Juan Larios",
+            "position": "Left-Back",
+            "date_of_birth": "Jan 12, 2004",
+            "age": "19",
+            "nationality": "Spain",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Kyle Walker-Peters",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 13, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Tino Livramento",
+            "position": "Right-Back",
+            "date_of_birth": "Nov 12, 2002",
+            "age": "20",
+            "nationality": "England, Scotland",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "James Bree",
+            "position": "Right-Back",
+            "date_of_birth": "Dec 11, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "45",
+            "name": "Rom\u00e9o Lavia",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jan 6, 2004",
+            "age": "19",
+            "nationality": "Belgium",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Ibrahima Diallo",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Mar 8, 1999",
+            "age": "24",
+            "nationality": "France, Senegal",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "James Ward-Prowse",
+            "position": "Central Midfield",
+            "date_of_birth": "Nov 1, 1994",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac38.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Carlos Alcaraz",
+            "position": "Central Midfield",
+            "date_of_birth": "Nov 30, 2002",
+            "age": "20",
+            "nationality": "Argentina",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Stuart Armstrong",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 30, 1992",
+            "age": "30",
+            "nationality": "Scotland",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Ainsley Maitland-Niles",
+            "position": "Right Midfield",
+            "date_of_birth": "Aug 29, 1997",
+            "age": "25",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Joe Aribo",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jul 21, 1996",
+            "age": "26",
+            "nationality": "Nigeria, England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Kamaldeen Sulemana",
+            "position": "Left Winger",
+            "date_of_birth": "Feb 15, 2002",
+            "age": "21",
+            "nationality": "Ghana",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Mohamed Elyounoussi",
+            "position": "Left Winger",
+            "date_of_birth": "Aug 4, 1994",
+            "age": "28",
+            "nationality": "Norway",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Moussa Djenepo",
+            "position": "Left Winger",
+            "date_of_birth": "Jun 15, 1998",
+            "age": "24",
+            "nationality": "Mali",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Mislav Orsic",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 29, 1992",
+            "age": "30",
+            "nationality": "Croatia",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Samuel Edozie",
+            "position": "Left Winger",
+            "date_of_birth": "Jan 28, 2003",
+            "age": "20",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Theo Walcott",
+            "position": "Right Winger",
+            "date_of_birth": "Mar 16, 1989",
+            "age": "34",
+            "nationality": "England",
+            "market_value": "\u20ac1.80m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Ch\u00e9 Adams",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 13, 1996",
+            "age": "26",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Paul Onuachu",
+            "position": "Centre-Forward",
+            "date_of_birth": "May 28, 1994",
+            "age": "28",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Adam Armstrong",
+            "position": "Centre-Forward",
+            "date_of_birth": "Feb 10, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "S\u00e9kou Mara",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 30, 2002",
+            "age": "20",
+            "nationality": "France, Senegal",
+            "market_value": "\u20ac12.00m"
+        }
+    ],
+    "Brighton & Hove Albion": [
+        {
+            "squad_number": "1",
+            "name": "Robert S\u00e1nchez",
+            "position": "Goalkeeper",
+            "date_of_birth": "Nov 18, 1997",
+            "age": "25",
+            "nationality": "Spain, England",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Jason Steele",
+            "position": "Goalkeeper",
+            "date_of_birth": "Aug 18, 1990",
+            "age": "32",
+            "nationality": "England",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Adam Webster",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 4, 1995",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Lewis Dunk",
+            "position": "Centre-Back",
+            "date_of_birth": "Nov 21, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Levi Colwill",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 26, 2003",
+            "age": "20",
+            "nationality": "England",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Jan Paul van Hecke",
+            "position": "Centre-Back",
+            "date_of_birth": "Jun 8, 2000",
+            "age": "22",
+            "nationality": "Netherlands",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Pervis Estupi\u00f1\u00e1n",
+            "position": "Left-Back",
+            "date_of_birth": "Jan 21, 1998",
+            "age": "25",
+            "nationality": "Ecuador, Spain",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Tariq Lamptey",
+            "position": "Right-Back",
+            "date_of_birth": "Sep 30, 2000",
+            "age": "22",
+            "nationality": "Ghana, England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "34",
+            "name": "Jo\u00ebl Veltman",
+            "position": "Right-Back",
+            "date_of_birth": "Jan 15, 1992",
+            "age": "31",
+            "nationality": "Netherlands",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Mois\u00e9s Caicedo",
+            "position": "Central Midfield",
+            "date_of_birth": "Nov 2, 2001",
+            "age": "21",
+            "nationality": "Ecuador",
+            "market_value": "\u20ac55.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Alexis Mac Allister",
+            "position": "Central Midfield",
+            "date_of_birth": "Dec 24, 1998",
+            "age": "24",
+            "nationality": "Argentina",
+            "market_value": "\u20ac42.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Jakub Moder",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 7, 1999",
+            "age": "23",
+            "nationality": "Poland",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Billy Gilmour",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 11, 2001",
+            "age": "21",
+            "nationality": "Scotland",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Pascal Gro\u00df",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 15, 1991",
+            "age": "31",
+            "nationality": "Germany",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Yasin Ayari",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 6, 2003",
+            "age": "19",
+            "nationality": "Sweden, Tunisia",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Solly March",
+            "position": "Left Midfield",
+            "date_of_birth": "Jul 20, 1994",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "40",
+            "name": "Facundo Buonanotte",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Dec 23, 2004",
+            "age": "18",
+            "nationality": "Argentina, Italy",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Jeremy Sarmiento",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jun 16, 2002",
+            "age": "20",
+            "nationality": "Ecuador, England",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Adam Lallana",
+            "position": "Attacking Midfield",
+            "date_of_birth": "May 10, 1988",
+            "age": "34",
+            "nationality": "England",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Kaoru Mitoma",
+            "position": "Left Winger",
+            "date_of_birth": "May 20, 1997",
+            "age": "25",
+            "nationality": "Japan",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Julio Enciso",
+            "position": "Second Striker",
+            "date_of_birth": "Jan 23, 2004",
+            "age": "19",
+            "nationality": "Paraguay",
+            "market_value": "\u20ac11.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Evan Ferguson",
+            "position": "Centre-Forward",
+            "date_of_birth": "Oct 19, 2004",
+            "age": "18",
+            "nationality": "Ireland",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Danny Welbeck",
+            "position": "Centre-Forward",
+            "date_of_birth": "Nov 26, 1990",
+            "age": "32",
+            "nationality": "England, Ghana",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Deniz Undav",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 19, 1996",
+            "age": "26",
+            "nationality": "Germany, Turkey",
+            "market_value": "\u20ac6.00m"
+        }
+    ],
+    "Everton FC": [
+        {
+            "squad_number": "1",
+            "name": "Jordan Pickford",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 7, 1994",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Asmir Begovic",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jun 20, 1987",
+            "age": "35",
+            "nationality": "Bosnia-Herzegovina, Canada",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Andy Lonergan",
+            "position": "Goalkeeper",
+            "date_of_birth": "Oct 19, 1983",
+            "age": "39",
+            "nationality": "England",
+            "market_value": "\u20ac200k"
+        },
+        {
+            "squad_number": "2",
+            "name": "James Tarkowski",
+            "position": "Centre-Back",
+            "date_of_birth": "Nov 19, 1992",
+            "age": "30",
+            "nationality": "England, Poland",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Conor Coady",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 25, 1993",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Ben Godfrey",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 15, 1998",
+            "age": "25",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Mason Holgate",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 22, 1996",
+            "age": "26",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Yerry Mina",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 23, 1994",
+            "age": "28",
+            "nationality": "Colombia",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Michael Keane",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 11, 1993",
+            "age": "30",
+            "nationality": "England, Ireland",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Vitaliy Mykolenko",
+            "position": "Left-Back",
+            "date_of_birth": "May 29, 1999",
+            "age": "23",
+            "nationality": "Ukraine",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "R\u00faben Vinagre",
+            "position": "Left-Back",
+            "date_of_birth": "Apr 9, 1999",
+            "age": "23",
+            "nationality": "Portugal",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Nathan Patterson",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 16, 2001",
+            "age": "21",
+            "nationality": "Scotland",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Seamus Coleman",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 11, 1988",
+            "age": "34",
+            "nationality": "Ireland",
+            "market_value": "\u20ac1.20m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Amadou Onana",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Aug 16, 2001",
+            "age": "21",
+            "nationality": "Belgium, Senegal",
+            "market_value": "\u20ac42.00m"
+        },
+        {
+            "squad_number": "37",
+            "name": "James Garner",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Mar 13, 2001",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Abdoulaye Doucour\u00e9",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 1, 1993",
+            "age": "30",
+            "nationality": "Mali, France",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Tom Davies",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 30, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Idrissa Gueye",
+            "position": "Central Midfield",
+            "date_of_birth": "Sep 26, 1989",
+            "age": "33",
+            "nationality": "Senegal",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Alex Iwobi",
+            "position": "Attacking Midfield",
+            "date_of_birth": "May 3, 1996",
+            "age": "26",
+            "nationality": "Nigeria, England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Demarai Gray",
+            "position": "Left Winger",
+            "date_of_birth": "Jun 28, 1996",
+            "age": "26",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Dwight McNeil",
+            "position": "Left Winger",
+            "date_of_birth": "Nov 22, 1999",
+            "age": "23",
+            "nationality": "England",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Andros Townsend",
+            "position": "Right Winger",
+            "date_of_birth": "Jul 16, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Dominic Calvert-Lewin",
+            "position": "Centre-Forward",
+            "date_of_birth": "Mar 16, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Neal Maupay",
+            "position": "Centre-Forward",
+            "date_of_birth": "Aug 14, 1996",
+            "age": "26",
+            "nationality": "France, Argentina",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "50",
+            "name": "Ellis Simms",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 5, 2001",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac4.00m"
+        }
+    ],
+    "Nottingham Forest": [
+        {
+            "squad_number": "1",
+            "name": "Dean Henderson",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 12, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Keylor Navas",
+            "position": "Goalkeeper",
+            "date_of_birth": "Dec 15, 1986",
+            "age": "36",
+            "nationality": "Costa Rica, Spain",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Wayne Hennessey",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 24, 1987",
+            "age": "36",
+            "nationality": "Wales",
+            "market_value": "\u20ac500k"
+        },
+        {
+            "squad_number": "19",
+            "name": "Moussa Niakhat\u00e9",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 8, 1996",
+            "age": "27",
+            "nationality": "Senegal, France",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Scott McKenna",
+            "position": "Centre-Back",
+            "date_of_birth": "Nov 12, 1996",
+            "age": "26",
+            "nationality": "Scotland",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Joe Worrall",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 10, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Willy Boly",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 3, 1991",
+            "age": "32",
+            "nationality": "Cote d'Ivoire, France",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Steve Cook",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 19, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "38",
+            "name": "Felipe",
+            "position": "Centre-Back",
+            "date_of_birth": "May 16, 1989",
+            "age": "33",
+            "nationality": "Brazil",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Renan Lodi",
+            "position": "Left-Back",
+            "date_of_birth": "Apr 8, 1998",
+            "age": "24",
+            "nationality": "Brazil, Italy",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "27",
+            "name": "Omar Richards",
+            "position": "Left-Back",
+            "date_of_birth": "Feb 15, 1998",
+            "age": "25",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Harry Toffolo",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 19, 1995",
+            "age": "27",
+            "nationality": "England",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Neco Williams",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 13, 2001",
+            "age": "21",
+            "nationality": "Wales",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Giulian Biancone",
+            "position": "Right-Back",
+            "date_of_birth": "Mar 31, 2000",
+            "age": "22",
+            "nationality": "France",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Serge Aurier",
+            "position": "Right-Back",
+            "date_of_birth": "Dec 24, 1992",
+            "age": "30",
+            "nationality": "Cote d'Ivoire",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Danilo",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Apr 29, 2001",
+            "age": "21",
+            "nationality": "Brazil",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Cheikhou Kouyat\u00e9",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Dec 21, 1989",
+            "age": "33",
+            "nationality": "Senegal, Belgium",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Jack Colback",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Oct 24, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac800k"
+        },
+        {
+            "squad_number": "5",
+            "name": "Orel Mangala",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 18, 1998",
+            "age": "25",
+            "nationality": "Belgium, DR Congo",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Remo Freuler",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 15, 1992",
+            "age": "30",
+            "nationality": "Switzerland",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Ryan Yates",
+            "position": "Central Midfield",
+            "date_of_birth": "Nov 21, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Jonjo Shelvey",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 27, 1992",
+            "age": "31",
+            "nationality": "England, Ireland",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "-",
+            "name": "Harry Arter",
+            "position": "Central Midfield",
+            "date_of_birth": "Dec 28, 1989",
+            "age": "33",
+            "nationality": "Ireland, England",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "18",
+            "name": "Caf\u00fa",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 26, 1993",
+            "age": "30",
+            "nationality": "Portugal, Guinea-Bissau",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "10",
+            "name": "Morgan Gibbs-White",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jan 27, 2000",
+            "age": "23",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Jesse Lingard",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Dec 15, 1992",
+            "age": "30",
+            "nationality": "England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Gustavo Scarpa",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jan 5, 1994",
+            "age": "29",
+            "nationality": "Brazil, Italy",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "34",
+            "name": "Andr\u00e9 Ayew",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 17, 1989",
+            "age": "33",
+            "nationality": "Ghana, France",
+            "market_value": "\u20ac2.20m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Alex Mighten",
+            "position": "Left Winger",
+            "date_of_birth": "Apr 11, 2002",
+            "age": "20",
+            "nationality": "England, United States",
+            "market_value": "\u20ac600k"
+        },
+        {
+            "squad_number": "20",
+            "name": "Brennan Johnson",
+            "position": "Second Striker",
+            "date_of_birth": "May 23, 2001",
+            "age": "21",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Taiwo Awoniyi",
+            "position": "Centre-Forward",
+            "date_of_birth": "Aug 12, 1997",
+            "age": "25",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Emmanuel Dennis",
+            "position": "Centre-Forward",
+            "date_of_birth": "Nov 15, 1997",
+            "age": "25",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "39",
+            "name": "Chris Wood",
+            "position": "Centre-Forward",
+            "date_of_birth": "Dec 7, 1991",
+            "age": "31",
+            "nationality": "New Zealand",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Sam Surridge",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jul 28, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Lyle Taylor",
+            "position": "Centre-Forward",
+            "date_of_birth": "Mar 29, 1990",
+            "age": "32",
+            "nationality": "Montserrat, England",
+            "market_value": "\u20ac350k"
+        }
+    ],
+    "Brentford FC": [
+        {
+            "squad_number": "1",
+            "name": "David Raya",
+            "position": "Goalkeeper",
+            "date_of_birth": "Sep 15, 1995",
+            "age": "27",
+            "nationality": "Spain",
+            "market_value": "\u20ac25.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Thomas Strakosha",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 19, 1995",
+            "age": "28",
+            "nationality": "Albania, Greece",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Kristoffer Ajer",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 17, 1998",
+            "age": "24",
+            "nationality": "Norway",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Ethan Pinnock",
+            "position": "Centre-Back",
+            "date_of_birth": "May 29, 1993",
+            "age": "29",
+            "nationality": "Jamaica, England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Pontus Jansson",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 13, 1991",
+            "age": "32",
+            "nationality": "Sweden",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Ben Mee",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 21, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac1.80m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Zanka",
+            "position": "Centre-Back",
+            "date_of_birth": "Apr 23, 1990",
+            "age": "32",
+            "nationality": "Denmark, The Gambia",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Rico Henry",
+            "position": "Left-Back",
+            "date_of_birth": "Jul 8, 1997",
+            "age": "25",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Aaron Hickey",
+            "position": "Left-Back",
+            "date_of_birth": "Jun 10, 2002",
+            "age": "20",
+            "nationality": "Scotland",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Mads Roerslev",
+            "position": "Right-Back",
+            "date_of_birth": "Jun 24, 1999",
+            "age": "23",
+            "nationality": "Denmark",
+            "market_value": "\u20ac2.20m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Fin Stevens",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 10, 2003",
+            "age": "19",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac400k"
+        },
+        {
+            "squad_number": "27",
+            "name": "Vitaly Janelt",
+            "position": "Defensive Midfield",
+            "date_of_birth": "May 10, 1998",
+            "age": "24",
+            "nationality": "Germany",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Christian N\u00f6rgaard",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Mar 10, 1994",
+            "age": "29",
+            "nationality": "Denmark",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Mathias Jensen",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 1, 1996",
+            "age": "27",
+            "nationality": "Denmark",
+            "market_value": "\u20ac14.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Josh Dasilva",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 23, 1998",
+            "age": "24",
+            "nationality": "England, Angola",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Frank Onyeka",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 1, 1998",
+            "age": "25",
+            "nationality": "Nigeria",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Shandon Baptiste",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 8, 1998",
+            "age": "24",
+            "nationality": "Grenada, England",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Saman Ghoddos",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Sep 6, 1993",
+            "age": "29",
+            "nationality": "Iran, Sweden",
+            "market_value": "\u20ac2.20m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Yoane Wissa",
+            "position": "Left Winger",
+            "date_of_birth": "Sep 3, 1996",
+            "age": "26",
+            "nationality": "DR Congo, France",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Keane Lewis-Potter",
+            "position": "Left Winger",
+            "date_of_birth": "Feb 22, 2001",
+            "age": "22",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Mikkel Damsgaard",
+            "position": "Left Winger",
+            "date_of_birth": "Jul 3, 2000",
+            "age": "22",
+            "nationality": "Denmark",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Bryan Mbeumo",
+            "position": "Right Winger",
+            "date_of_birth": "Aug 7, 1999",
+            "age": "23",
+            "nationality": "Cameroon, France",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Kevin Schade",
+            "position": "Right Winger",
+            "date_of_birth": "Nov 27, 2001",
+            "age": "21",
+            "nationality": "Germany, Nigeria",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Ivan Toney",
+            "position": "Centre-Forward",
+            "date_of_birth": "Mar 16, 1996",
+            "age": "27",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac50.00m"
+        }
+    ],
+    "Leeds United": [
+        {
+            "squad_number": "1",
+            "name": "Illan Meslier",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 2, 2000",
+            "age": "23",
+            "nationality": "France",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Kristoffer Klaesson",
+            "position": "Goalkeeper",
+            "date_of_birth": "Nov 27, 2000",
+            "age": "22",
+            "nationality": "Norway",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Joel Robles",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jun 17, 1990",
+            "age": "32",
+            "nationality": "Spain",
+            "market_value": "\u20ac1.20m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Robin Koch",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 17, 1996",
+            "age": "26",
+            "nationality": "Germany",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "39",
+            "name": "Maximilian W\u00f6ber",
+            "position": "Centre-Back",
+            "date_of_birth": "Feb 4, 1998",
+            "age": "25",
+            "nationality": "Austria",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Liam Cooper",
+            "position": "Centre-Back",
+            "date_of_birth": "Aug 30, 1991",
+            "age": "31",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Pascal Struijk",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 11, 1999",
+            "age": "23",
+            "nationality": "Netherlands, Belgium",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Junior Firpo",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 22, 1996",
+            "age": "26",
+            "nationality": "Dominican Republic, Spain",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Rasmus Kristensen",
+            "position": "Right-Back",
+            "date_of_birth": "Jul 11, 1997",
+            "age": "25",
+            "nationality": "Denmark",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Luke Ayling",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 25, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Stuart Dallas",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 19, 1991",
+            "age": "31",
+            "nationality": "Northern Ireland",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Tyler Adams",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Feb 14, 1999",
+            "age": "24",
+            "nationality": "United States",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Marc Roca",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Nov 26, 1996",
+            "age": "26",
+            "nationality": "Spain",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Weston McKennie",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 28, 1998",
+            "age": "24",
+            "nationality": "United States",
+            "market_value": "\u20ac21.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Adam Forshaw",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 8, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac1.80m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Brenden Aaronson",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Oct 22, 2000",
+            "age": "22",
+            "nationality": "United States",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "42",
+            "name": "Sam Greenwood",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jan 26, 2002",
+            "age": "21",
+            "nationality": "England",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Jack Harrison",
+            "position": "Left Winger",
+            "date_of_birth": "Nov 20, 1996",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "23",
+            "name": "Luis Sinisterra",
+            "position": "Left Winger",
+            "date_of_birth": "Jun 17, 1999",
+            "age": "23",
+            "nationality": "Colombia",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Wilfried Gnonto",
+            "position": "Left Winger",
+            "date_of_birth": "Nov 5, 2003",
+            "age": "19",
+            "nationality": "Italy, Cote d'Ivoire",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Crysencio Summerville",
+            "position": "Right Winger",
+            "date_of_birth": "Oct 30, 2001",
+            "age": "21",
+            "nationality": "Netherlands, Suriname",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Rodrigo",
+            "position": "Second Striker",
+            "date_of_birth": "Mar 6, 1991",
+            "age": "32",
+            "nationality": "Spain, Brazil",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Georginio Rutter",
+            "position": "Centre-Forward",
+            "date_of_birth": "Apr 20, 2002",
+            "age": "20",
+            "nationality": "France, Martinique",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Patrick Bamford",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 5, 1993",
+            "age": "29",
+            "nationality": "England, Ireland",
+            "market_value": "\u20ac10.00m"
+        }
+    ],
+    "Crystal Palace": [
+        {
+            "squad_number": "21",
+            "name": "Sam Johnstone",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 25, 1993",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Vicente Guaita",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jan 10, 1987",
+            "age": "36",
+            "nationality": "Spain",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "41",
+            "name": "Joe Whitworth",
+            "position": "Goalkeeper",
+            "date_of_birth": "Feb 29, 2004",
+            "age": "19",
+            "nationality": "England",
+            "market_value": "\u20ac250k"
+        },
+        {
+            "squad_number": "6",
+            "name": "Marc Gu\u00e9hi",
+            "position": "Centre-Back",
+            "date_of_birth": "Jul 13, 2000",
+            "age": "22",
+            "nationality": "England, Cote d'Ivoire",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Joachim Andersen",
+            "position": "Centre-Back",
+            "date_of_birth": "May 31, 1996",
+            "age": "26",
+            "nationality": "Denmark",
+            "market_value": "\u20ac32.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Chris Richards",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 28, 2000",
+            "age": "22",
+            "nationality": "United States",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "36",
+            "name": "Nathan Ferguson",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 6, 2000",
+            "age": "22",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "James Tomkins",
+            "position": "Centre-Back",
+            "date_of_birth": "Mar 29, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Tyrick Mitchell",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 1, 1999",
+            "age": "23",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Nathaniel Clyne",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 5, 1991",
+            "age": "31",
+            "nationality": "England, Grenada",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Joel Ward",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 29, 1989",
+            "age": "33",
+            "nationality": "England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Cheick Doucour\u00e9",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jan 8, 2000",
+            "age": "23",
+            "nationality": "Mali",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "44",
+            "name": "Jairo Riedewald",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Sep 9, 1996",
+            "age": "26",
+            "nationality": "Netherlands, Suriname",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Luka Milivojevic",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Apr 7, 1991",
+            "age": "31",
+            "nationality": "Serbia",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Albert Sambi Lokonga",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 22, 1999",
+            "age": "23",
+            "nationality": "Belgium, DR Congo",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Naouirou Ahamada",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 29, 2002",
+            "age": "20",
+            "nationality": "France, Comoros",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Will Hughes",
+            "position": "Central Midfield",
+            "date_of_birth": "Apr 17, 1995",
+            "age": "27",
+            "nationality": "England",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "James McArthur",
+            "position": "Central Midfield",
+            "date_of_birth": "Oct 7, 1987",
+            "age": "35",
+            "nationality": "Scotland",
+            "market_value": "\u20ac700k"
+        },
+        {
+            "squad_number": "15",
+            "name": "Jeffrey Schlupp",
+            "position": "Left Midfield",
+            "date_of_birth": "Dec 23, 1992",
+            "age": "30",
+            "nationality": "Ghana, Germany",
+            "market_value": "\u20ac8.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Eberechi Eze",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jun 29, 1998",
+            "age": "24",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac30.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Wilfried Zaha",
+            "position": "Left Winger",
+            "date_of_birth": "Nov 10, 1992",
+            "age": "30",
+            "nationality": "Cote d'Ivoire, England",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Michael Olise",
+            "position": "Right Winger",
+            "date_of_birth": "Dec 12, 2001",
+            "age": "21",
+            "nationality": "France, England",
+            "market_value": "\u20ac27.00m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Odsonne Edouard",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 16, 1998",
+            "age": "25",
+            "nationality": "France, French Guiana",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Jean-Philippe Mateta",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jun 28, 1997",
+            "age": "25",
+            "nationality": "France, DR Congo",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Jordan Ayew",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 11, 1991",
+            "age": "31",
+            "nationality": "Ghana, France",
+            "market_value": "\u20ac6.00m"
+        }
+    ],
+    "Fulham FC": [
+        {
+            "squad_number": "17",
+            "name": "Bernd Leno",
+            "position": "Goalkeeper",
+            "date_of_birth": "Mar 4, 1992",
+            "age": "31",
+            "nationality": "Germany",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Marek Rodak",
+            "position": "Goalkeeper",
+            "date_of_birth": "Dec 13, 1996",
+            "age": "26",
+            "nationality": "Slovakia",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "31",
+            "name": "Issa Diop",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 9, 1997",
+            "age": "26",
+            "nationality": "France, Senegal",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Tosin Adarabioyo",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 24, 1997",
+            "age": "25",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Shane Duffy",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 1, 1992",
+            "age": "31",
+            "nationality": "Ireland, Northern Ireland",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "13",
+            "name": "Tim Ream",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 5, 1987",
+            "age": "35",
+            "nationality": "United States",
+            "market_value": "\u20ac1.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Antonee Robinson",
+            "position": "Left-Back",
+            "date_of_birth": "Aug 8, 1997",
+            "age": "25",
+            "nationality": "United States, England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Layvin Kurzawa",
+            "position": "Left-Back",
+            "date_of_birth": "Sep 4, 1992",
+            "age": "30",
+            "nationality": "France, Guadeloupe",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Kenny Tete",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 9, 1995",
+            "age": "27",
+            "nationality": "Netherlands, Mozambique",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "C\u00e9dric Soares",
+            "position": "Right-Back",
+            "date_of_birth": "Aug 31, 1991",
+            "age": "31",
+            "nationality": "Portugal, Germany",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "26",
+            "name": "Jo\u00e3o Palhinha",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Jul 9, 1995",
+            "age": "27",
+            "nationality": "Portugal",
+            "market_value": "\u20ac35.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Harrison Reed",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 27, 1995",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "28",
+            "name": "Sasa Lukic",
+            "position": "Central Midfield",
+            "date_of_birth": "Aug 13, 1996",
+            "age": "26",
+            "nationality": "Serbia",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Tom Cairney",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 20, 1991",
+            "age": "32",
+            "nationality": "Scotland, England",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "35",
+            "name": "Tyrese Francois",
+            "position": "Central Midfield",
+            "date_of_birth": "Jul 16, 2000",
+            "age": "22",
+            "nationality": "Australia, England",
+            "market_value": "\u20ac500k"
+        },
+        {
+            "squad_number": "18",
+            "name": "Andreas Pereira",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Jan 1, 1996",
+            "age": "27",
+            "nationality": "Brazil, Belgium",
+            "market_value": "\u20ac16.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Bobby De Cordova-Reid",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Feb 2, 1993",
+            "age": "30",
+            "nationality": "Jamaica, England",
+            "market_value": "\u20ac7.00m"
+        },
+        {
+            "squad_number": "11",
+            "name": "Manor Solomon",
+            "position": "Left Winger",
+            "date_of_birth": "Jul 24, 1999",
+            "age": "23",
+            "nationality": "Israel, Portugal",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "Neeskens Kebano",
+            "position": "Left Winger",
+            "date_of_birth": "Mar 10, 1992",
+            "age": "31",
+            "nationality": "DR Congo, France",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "20",
+            "name": "Willian",
+            "position": "Left Winger",
+            "date_of_birth": "Aug 9, 1988",
+            "age": "34",
+            "nationality": "Brazil",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Harry Wilson",
+            "position": "Right Winger",
+            "date_of_birth": "Mar 22, 1997",
+            "age": "26",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Daniel James",
+            "position": "Right Winger",
+            "date_of_birth": "Nov 10, 1997",
+            "age": "25",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac13.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Aleksandar Mitrovi\u0107",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 16, 1994",
+            "age": "28",
+            "nationality": "Serbia",
+            "market_value": "\u20ac28.00m"
+        },
+        {
+            "squad_number": "30",
+            "name": "Carlos Vin\u00edcius",
+            "position": "Centre-Forward",
+            "date_of_birth": "Mar 25, 1995",
+            "age": "27",
+            "nationality": "Brazil",
+            "market_value": "\u20ac5.00m"
+        }
+    ],
+    "AFC Bournemouth": [
+        {
+            "squad_number": "13",
+            "name": "Neto",
+            "position": "Goalkeeper",
+            "date_of_birth": "Jul 19, 1989",
+            "age": "33",
+            "nationality": "Brazil, Italy",
+            "market_value": "\u20ac2.50m"
+        },
+        {
+            "squad_number": "1",
+            "name": "Mark Travers",
+            "position": "Goalkeeper",
+            "date_of_birth": "May 18, 1999",
+            "age": "23",
+            "nationality": "Ireland",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "12",
+            "name": "Darren Randolph",
+            "position": "Goalkeeper",
+            "date_of_birth": "May 12, 1987",
+            "age": "35",
+            "nationality": "Ireland, United States",
+            "market_value": "\u20ac500k"
+        },
+        {
+            "squad_number": "27",
+            "name": "Ilya Zabarnyi",
+            "position": "Centre-Back",
+            "date_of_birth": "Sep 1, 2002",
+            "age": "20",
+            "nationality": "Ukraine",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "25",
+            "name": "Marcos Senesi",
+            "position": "Centre-Back",
+            "date_of_birth": "May 10, 1997",
+            "age": "25",
+            "nationality": "Argentina, Italy",
+            "market_value": "\u20ac17.00m"
+        },
+        {
+            "squad_number": "5",
+            "name": "Lloyd Kelly",
+            "position": "Centre-Back",
+            "date_of_birth": "Oct 6, 1998",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "6",
+            "name": "Chris Mepham",
+            "position": "Centre-Back",
+            "date_of_birth": "Nov 5, 1997",
+            "age": "25",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "3",
+            "name": "Jack Stephens",
+            "position": "Centre-Back",
+            "date_of_birth": "Jan 27, 1994",
+            "age": "29",
+            "nationality": "England",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "18",
+            "name": "Mat\u00edas Vi\u00f1a",
+            "position": "Left-Back",
+            "date_of_birth": "Nov 9, 1997",
+            "age": "25",
+            "nationality": "Uruguay, Italy",
+            "market_value": "\u20ac6.00m"
+        },
+        {
+            "squad_number": "33",
+            "name": "Jordan Zemura",
+            "position": "Left-Back",
+            "date_of_birth": "Nov 14, 1999",
+            "age": "23",
+            "nationality": "Zimbabwe, England",
+            "market_value": "\u20ac4.00m"
+        },
+        {
+            "squad_number": "17",
+            "name": "Jack Stacey",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 6, 1996",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac3.00m"
+        },
+        {
+            "squad_number": "2",
+            "name": "Ryan Fredericks",
+            "position": "Right-Back",
+            "date_of_birth": "Oct 10, 1992",
+            "age": "30",
+            "nationality": "England, Scotland",
+            "market_value": "\u20ac2.00m"
+        },
+        {
+            "squad_number": "15",
+            "name": "Adam Smith",
+            "position": "Right-Back",
+            "date_of_birth": "Apr 29, 1991",
+            "age": "31",
+            "nationality": "England",
+            "market_value": "\u20ac1.50m"
+        },
+        {
+            "squad_number": "8",
+            "name": "Jefferson Lerma",
+            "position": "Defensive Midfield",
+            "date_of_birth": "Oct 25, 1994",
+            "age": "28",
+            "nationality": "Colombia",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "29",
+            "name": "Philip Billing",
+            "position": "Central Midfield",
+            "date_of_birth": "Jun 11, 1996",
+            "age": "26",
+            "nationality": "Denmark, Nigeria",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "16",
+            "name": "Marcus Tavernier",
+            "position": "Central Midfield",
+            "date_of_birth": "Mar 22, 1999",
+            "age": "24",
+            "nationality": "England",
+            "market_value": "\u20ac15.00m"
+        },
+        {
+            "squad_number": "4",
+            "name": "Lewis Cook",
+            "position": "Central Midfield",
+            "date_of_birth": "Feb 3, 1997",
+            "age": "26",
+            "nationality": "England",
+            "market_value": "\u20ac10.00m"
+        },
+        {
+            "squad_number": "14",
+            "name": "Joe Rothwell",
+            "position": "Central Midfield",
+            "date_of_birth": "Jan 11, 1995",
+            "age": "28",
+            "nationality": "England",
+            "market_value": "\u20ac3.50m"
+        },
+        {
+            "squad_number": "22",
+            "name": "Hamed Junior Traor\u00e8",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Feb 16, 2000",
+            "age": "23",
+            "nationality": "Cote d'Ivoire",
+            "market_value": "\u20ac22.00m"
+        },
+        {
+            "squad_number": "10",
+            "name": "Ryan Christie",
+            "position": "Attacking Midfield",
+            "date_of_birth": "Feb 22, 1995",
+            "age": "28",
+            "nationality": "Scotland",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "32",
+            "name": "Jaidon Anthony",
+            "position": "Left Winger",
+            "date_of_birth": "Dec 1, 1999",
+            "age": "23",
+            "nationality": "England, Jamaica",
+            "market_value": "\u20ac5.00m"
+        },
+        {
+            "squad_number": "19",
+            "name": "Junior Stanislas",
+            "position": "Left Winger",
+            "date_of_birth": "Nov 26, 1989",
+            "age": "33",
+            "nationality": "England, St. Lucia",
+            "market_value": "\u20ac700k"
+        },
+        {
+            "squad_number": "11",
+            "name": "Dango Ouattara",
+            "position": "Right Winger",
+            "date_of_birth": "Feb 11, 2002",
+            "age": "21",
+            "nationality": "Burkina Faso",
+            "market_value": "\u20ac20.00m"
+        },
+        {
+            "squad_number": "7",
+            "name": "David Brooks",
+            "position": "Right Winger",
+            "date_of_birth": "Jul 8, 1997",
+            "age": "25",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac12.00m"
+        },
+        {
+            "squad_number": "9",
+            "name": "Dominic Solanke",
+            "position": "Centre-Forward",
+            "date_of_birth": "Sep 14, 1997",
+            "age": "25",
+            "nationality": "England, Nigeria",
+            "market_value": "\u20ac18.00m"
+        },
+        {
+            "squad_number": "24",
+            "name": "Antoine Semenyo",
+            "position": "Centre-Forward",
+            "date_of_birth": "Jan 7, 2000",
+            "age": "23",
+            "nationality": "Ghana, England",
+            "market_value": "\u20ac9.00m"
+        },
+        {
+            "squad_number": "21",
+            "name": "Kieffer Moore",
+            "position": "Centre-Forward",
+            "date_of_birth": "Aug 8, 1992",
+            "age": "30",
+            "nationality": "Wales, England",
+            "market_value": "\u20ac4.00m"
+        }
+    ]
+}

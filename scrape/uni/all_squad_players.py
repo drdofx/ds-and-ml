@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import time
 import xlsxwriter
+import csv
 
 class AllSquadPlayer:
     def __init__(self):
@@ -130,12 +131,14 @@ class AllSquadPlayer:
     def exportToXlsx(self):
         workbook = xlsxwriter.Workbook('output/xlsx/club_players.xlsx')
         bold = workbook.add_format({'bold': True})
-        title = workbook.add_format({'align': 'center', 'font_size': 20, 'bold': True, 'bg_color': '#D7E4BC'})
+        title = workbook.add_format({'align': 'center', 'valign': 'vcenter', 'font_size': 18, 'bold': True})
 
         for club in self.club_players:
             worksheet = workbook.add_worksheet(club)
 
             worksheet.set_column('A:G', 20)
+
+            worksheet.set_row(0, 20)
 
             worksheet.merge_range(0, 0, 0, 6, club, title)
 
@@ -156,15 +159,32 @@ class AllSquadPlayer:
                 worksheet.write(i+2, 5, self.club_players[club][i]['nationality'])
                 worksheet.write(i+2, 6, self.club_players[club][i]['market_value'])
 
+        # sort worksheet by name
+        workbook.worksheets_objs.sort(key=lambda x: x.name)
+
         workbook.close()
 
-        print("Export to xlsx is done")       
+        print("Export to xlsx is done")
+        
+    def exportToCsv(self):
+        with open('output/csv/club_players.csv', 'w', newline='') as csvfile:
+            fieldnames = ['squad_number', 'name', 'position', 'date_of_birth', 'age', 'nationality', 'market_value', 'club']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+
+            for club, players in self.club_players.items():
+                for player in players:
+                    player['club'] = club
+                    writer.writerow(player)
+
+        print("Export to csv is done")       
     
 # init class
 all_squad_player = AllSquadPlayer()
 all_squad_player.scrapeClubs()
 all_squad_player.scrapeClubPlayers()
 all_squad_player.exportToXlsx()
+all_squad_player.exportToCsv()
 
 
 

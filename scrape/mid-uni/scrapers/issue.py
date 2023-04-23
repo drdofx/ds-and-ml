@@ -1,18 +1,29 @@
 from helpers.request import Request
+from helpers.store import Store
+import json
 
 class Issue:
     def __init__(self):
         self.start_url = "https://ojs.unikom.ac.id/index.php/komputika/issue/archive"
-        self.issues = []
+        self.request = Request()
+        self.store = Store()
+        
+        try:
+            # read issues.json
+            with open('output/json/issues.json') as json_file:
+                self.issues = json.load(json_file)
+        except:
+            self.issues = []
 
     def scrapeIssues(self):
-        print("Crawling journal...")
+        print("Scraping issues...")
 
-        # get the html
-        req = Request()
+        if len(self.issues) > 0:
+            print("Issues already scraped!\n")
+            return
 
-        # parse the html
-        soup = req.parseHtml(self.start_url)
+        # send request and parse html
+        soup = self.request.getSoup(self.start_url)
 
         # find all issues
         issue = soup.find_all('div', {"class": "obj_issue_summary_series"})
@@ -35,6 +46,9 @@ class Issue:
 
             self.issues.append(data)
 
-        return self.issues
+        # store json
+        store_json = self.store.storeJson(self.issues, "output/json/issues.json")
+
+        print("Scraping issues done!\n") if store_json else print("Scraping issues failed!\n")
 
 

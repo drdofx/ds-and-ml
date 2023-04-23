@@ -1,0 +1,572 @@
+{
+    "Vol 11 No 2 (2022)": [
+        {
+            "article_name": "Ensiklopedia Digital Berdasarkan Klasifikasi Varietas Buah Mangga (Mangifera spp.) Menggunakan Algoritma Backpropagation",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5513"
+        },
+        {
+            "article_name": "Komparasi Jarak Euclidean dan Jarak Manhattan Untuk Deteksi Covid-19 Melalui Citra CT-Scan Paru-Paru",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5380"
+        },
+        {
+            "article_name": "Pengelompokan Kualitas Kinerja Pegawai Menggunakan Metode K-Means Clustering",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5518"
+        },
+        {
+            "article_name": "Analisis Perbandingan Kinerja Metode Rekursif dan Metode Iteratif dalam Algoritma Linear Search",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5493"
+        },
+        {
+            "article_name": "Aplikasi Penjadwalan Laboratorium Berbasis Android Pada SMK Bina Satria",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6011"
+        },
+        {
+            "article_name": "Sistem Pemeringkatan Daerah (Kelurahan) Dalam Pemberlakuan Pembatasan Sosial Berskala Besar (PSBB) Menggunakan Metode Analytical Hierarchy Process (AHP)",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5248"
+        },
+        {
+            "article_name": "Implementasi Algoritma Text Mining dan Cosine Similarity untuk Desain Sistem Aspirasi Publik Berbasis Mobile",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6501"
+        },
+        {
+            "article_name": "Proyeksi Acak dan Teknik Scanning pada Algoritma Sparse Representation based Classification untuk Pengenalan Wajah",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/7201"
+        },
+        {
+            "article_name": "Analisis Kombinasi Metode Algoritma MFEP dan AHP Pada Pemilihan Bibit Unggul Kopi Robusta",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6719"
+        },
+        {
+            "article_name": "Klasifikasi Customer Relationship Management Menggunakan Dataset KDD Cup 2009 dengan Teknik Reduksi Dimensi",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6498"
+        },
+        {
+            "article_name": "Sistem Pengenalan Suara dengan Metode Mel Frequency Cepstral Coefficients dan Gaussian Mixture Model",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6655"
+        },
+        {
+            "article_name": "Analisis Sentimen Media Sosial Twiiter terhadap RUU Omnibus Law dengan Metode Naive Bayes dan Particle Swarm Optimization",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/6037"
+        }
+    ],
+    "Vol 11 No 1 (2022)": [
+        {
+            "article_name": "Prototipe Sistem Kontrol Pemadam Kebakaran Pada Rumah Berbasis Arduino Uno dan ESP8266",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4801"
+        },
+        {
+            "article_name": "Gim Edukasi Bernarasi Cerita untuk Edukasi Prasekolah Normal Baru: Studi Kasus di TK Lintang, Surabaya",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4315"
+        },
+        {
+            "article_name": "Pengenalan Gestur Angka Pada Tangan Menggunakan Arsitektur AlexNet Dan LeNet Pada Metode Convolutional Neural Network",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5176"
+        },
+        {
+            "article_name": "Implementasi Aplikasi Keberangkatan Pelaut Berbasis Web Menggunakan Metode AHP (Analytic Hierarchy Process)",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4598"
+        },
+        {
+            "article_name": "Proteksi Kebocoran Gas LPG Rumah Tangga Berbasis Mikrokontroler",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4977"
+        },
+        {
+            "article_name": "Klasifikasi Video Olahraga Berdasarkan Citra Berbasis Konten Menggunakan Segmentasi Superpixel",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4542"
+        },
+        {
+            "article_name": "Analisis Komparasi Algoritma Klasifikasi Data Mining Dalam Klasifikasi Website Phishing",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4350"
+        },
+        {
+            "article_name": "Analisis Pengamanan Jaringan Menggunakan Router Mikrotik dari Serangan DoS dan Pengaruhnya Terhadap Performansi",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5227"
+        },
+        {
+            "article_name": "Analisis Pemilihan Warna Cat Dinding dengan Metode Data Mining Berdasarkan Kepribadian Pengguna",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4575"
+        },
+        {
+            "article_name": "IoT Online Monitoring System on Pulp and Paper Industry Wastewater Treatment Plant",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5485"
+        },
+        {
+            "article_name": "Pemantauan Penyerapan Gas Beracun Menggunakan Tanaman Sansevieria Pada Ruangan Tertutup",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4751"
+        },
+        {
+            "article_name": "Sistem Antrian Cucian Mobil Berbasis Website Menggunakan Konsep CRM dan Penerapan UML",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4677"
+        }
+    ],
+    "Vol 10 No 2 (2021)": [
+        {
+            "article_name": "Sistem Pendukung Keputusan Latihan Memanah Menggunakan Algoritma Decision Tree",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3774"
+        },
+        {
+            "article_name": "Analisis Cluster dengan Metode Partitioning dan Hierarki pada Data Informasi Kemiskinan Provinsi di Indonesia Tahun 2019",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4317"
+        },
+        {
+            "article_name": "Klasifikasi Pengembalian Radar dari Ionosfer Menggunakan SVM, Na\u00c3\u00afve Bayes dan Random Forest",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4347"
+        },
+        {
+            "article_name": "Klasifikasi Buah Zaitun Menggunakan Convolution Neural Network",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4475"
+        },
+        {
+            "article_name": "Model Pemantau Kelembaban dan Irigasi Sawah Otomatis Berbasiskan Internet of Things",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4515"
+        },
+        {
+            "article_name": "Klasifikasi Ekspresi Teks Berbahasa Jawa Menggunakan Algoritma Long Short Term Memory",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4616"
+        },
+        {
+            "article_name": "Peringkasan Berita Online Corona Virus dengan Metode Lexical Chain dan Word Sense Disambiguation",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4499"
+        },
+        {
+            "article_name": "Penerapan Genetic Modified k-Nearest Neighbor Pada Prediksi PM10 di Pekanbaru",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4404"
+        },
+        {
+            "article_name": "Perancangan Sistem Pengelolaan Keuangan Komite Menggunakan Web Engineering (Studi Kasus : SMK Negeri 1 Gedong Tataan)",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4329"
+        },
+        {
+            "article_name": "Penerapan Algoritma Dijkstra Pada Game Learning Matematika Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4551"
+        }
+    ],
+    "Vol 10 No 1 (2021)": [
+        {
+            "article_name": "Pengenalan Ekspresi Wajah dengan Metode Viola Jones dan Convolutional Neural Network",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/4119"
+        },
+        {
+            "article_name": "Rancang Bangun Game Puzzle The Tabperi Dengan Algoritme A* Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3989"
+        },
+        {
+            "article_name": "Sistem Pakar Berbasis Android untuk Diagnosis Diabetes Melitus dengan Metode Forward Chaining",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3553"
+        },
+        {
+            "article_name": "Rancang Bangun Aplikasi Tracking Paket Ekspedisi CV MK Express",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3735"
+        },
+        {
+            "article_name": "Pencarian Kata Pada Aplikasi Kamus Istilah Komputer dan Informatika Menggunakan Algoritma Brute Force Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3644"
+        },
+        {
+            "article_name": "Implementasi Sistem Pencarian Wisata Menggunakan Tour Talk Share (TTS) Berbasis Android Pada Provinsi Sulawesi Selatan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3659"
+        },
+        {
+            "article_name": "Implementasi dan Uji Kinerja Kontrol PID untuk kestabilan Pesawat Tanpa Awak Tailsitter pada Keadaan Mengambang",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3808"
+        },
+        {
+            "article_name": "Aplikasi Klasifikasi Status Kemiskinan Warga di Kabupaten Tegal",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3701"
+        },
+        {
+            "article_name": "Algoritme Genetika untuk Desain Level Dinamis pada Game Edukasi Kebakaran Hutan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3586"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Komunikasi RS-485 Menggunakan Protokol Modbus RTU dan Modbus TCP pada Sistem Pick-By-Light",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3557"
+        }
+    ],
+    "Vol 9 No 2 (2020)": [
+        {
+            "article_name": "Sistem Pakar Diagnosis Hama Dan Penyakit Bawang Merah Menggunakan Metode Dempster Shafer",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2884"
+        },
+        {
+            "article_name": "The Development of Integrated Medical Expert System for Diabetes Mellitus Patient",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2915"
+        },
+        {
+            "article_name": "Analisis Faktor yang Mempengaruhi Niat Penggunaan Layanan Pendaftaran Nikah Online Pada Simkah Web di Sleman",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2929"
+        },
+        {
+            "article_name": "Metode Extreme Programming Dalam Pengembangan Aplikasi Legalisir Online Berbasis Web Service",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3247"
+        },
+        {
+            "article_name": "Sistem Pendukung Keputusan Pembelian Sepeda Motor Menggunakan Metode Promethee",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2916"
+        },
+        {
+            "article_name": "System Usability Scale (SUS) Untuk Pengujian Usability Pada Pijar Career Center",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2873"
+        },
+        {
+            "article_name": "Pengembangan Sistem Antrean Berbasis Android pada Layanan Administrasi di Universitas Teknologi Yogyakarta",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3019"
+        },
+        {
+            "article_name": "Pengembangan Sistem Transportasi Pada Gudang In-Transit Merge Dengan Integrasi Sistem Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3005"
+        },
+        {
+            "article_name": "Perancangan Algoritma Optimasi Pada Pengenalan Karakter Plat Nomor Kendaraan Menggunakan Pengolahan Citra",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3682"
+        },
+        {
+            "article_name": "Tutorial Praktikum Kalorimeter Berbasis Augmented Reality Dan Metode Mamdani",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/3566"
+        }
+    ],
+    "Vol 9 No 1 (2020)": [
+        {
+            "article_name": "Pengukuran Performa Pengiriman Data Presensi Menggunakan Simple Object Access Protocol dan Kontrol ZKEM",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2660"
+        },
+        {
+            "article_name": "Sistem Informasi Penerimaan Peserta Didik Baru Online Berbasis Website di Yayasan Pendidikan Arya Jaya Sentika",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2750"
+        },
+        {
+            "article_name": "Implementasi Augmented Reality Pada Pembelajaran Matematika Mengenal Bangun Ruang Dengan Metode Marked Based Tracking Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2362"
+        },
+        {
+            "article_name": "Penerapan Metode Webqual 4.0 dan IPA Dalam Mengukur Kualitas Website VISLOG PT. Citra Surya Indonesia",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2849"
+        },
+        {
+            "article_name": "Prototype Sistem Monitoring Kesehatan Terintegrasi dengan Keluaran Pada Smartphone Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2785"
+        },
+        {
+            "article_name": "Studi Perbandingan Performa Algoritma Penjadwalan untuk Real Time Data Twitter pada Hadoop",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2848"
+        },
+        {
+            "article_name": "Perancangan Sistem Multi Computer Numerical Control (CNC) untuk Plotter dan Laser Engraving",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2652"
+        },
+        {
+            "article_name": "Studi Kasus: Sistem Informasi dan Pelayanan Administrasi Kependudukan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2518"
+        },
+        {
+            "article_name": "Perancangan Sistem Informasi Akademik Pada Sekolah Menengah Pertama Berbasis Web",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2243"
+        },
+        {
+            "article_name": "Identifikasi dan Recovery File JPEG dengan Metode Signature-Based Carving dalam Model Automata",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2733"
+        }
+    ],
+    "Vol 8 No 2 (2019)": [
+        {
+            "article_name": "Implementasi dan Uji Kinerja Algoritma Background Subtraction pada ESP32",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2194"
+        },
+        {
+            "article_name": "Perancangan Sistem Informasi Berbasis Website pada Perkampungan Budaya Betawi Setu Babakan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1849"
+        },
+        {
+            "article_name": "Aplikasi Pengenalan Huruf dan Makharijul Huruf Hijaiyah Dengan Augmented Reality Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2186"
+        },
+        {
+            "article_name": "Penerapan Logika Fuzzy Mamdani  Untuk Prediksi Pengadaan Peralatan Rumah Tangga Rumah Sakit",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2254"
+        },
+        {
+            "article_name": "Model Sistem Pengelolaan Pengetahuan Guru di Sekolah Luar Biasa Tunarungu",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2276"
+        },
+        {
+            "article_name": "Aplikasi Chatbot Speak English Media Pembelajaran Bahasa Inggris Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2273"
+        },
+        {
+            "article_name": "Smart Socket untuk Smart Home berbasis Message Queuing Telemetry Transport (MQTT)",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1684"
+        },
+        {
+            "article_name": "Pembangunan Sistem Monitoring  Pengelolaan Benih Tanaman Hutan Berbasis Internet of Things dan Smart Energy",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/2279"
+        }
+    ],
+    "Vol 8 No 1 (2019)": [
+        {
+            "article_name": "Pembangunan Sistem Electronic Customer Relationship Management  pada PT. Beton Elemenindo Perkasa",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1649"
+        },
+        {
+            "article_name": "Implementasi Sensor Network untuk Monitoring Base Transceiver Station ( BTS )",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1650"
+        },
+        {
+            "article_name": "Perancangan Sistem Pengambilan Gambar Video Berdasarkan Pergerakan Benda Menggunakan Metode Background Subraction",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1676"
+        },
+        {
+            "article_name": "Perancangan Sistem Informasi Pembayaran Elektronik Pada Kantin XYZ",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1575"
+        },
+        {
+            "article_name": "Implementasi Cluster Server Pada Raspberry Pi Dengan Menggunakan Metode Load Balancing",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1623"
+        },
+        {
+            "article_name": "Pembangunan Aplikasi Chatbot Midwify sebagai Media Pendukung Pembelajaran Ilmu Kebidanan Berbasis Android di Stikes Bhakti Kencana Bandung",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1630"
+        },
+        {
+            "article_name": "Analisis Pengaruh Kontrol PI Dengan Integral Anti-Windup Sebagai Upaya Reduksi Lonjakan Respon pada Sistem Ruang Termal",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1679"
+        }
+    ],
+    "Vol 7 No 2 (2018)": [
+        {
+            "article_name": "Perancangan Sistem Pengamanan Data Video CCTV ATM  (Anjungan Tunai Mandiri) Secara Diskrit dan Terdistibusi Menggunakan WLAN dan Sistem NAS",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1513"
+        },
+        {
+            "article_name": "Perancangan E-Payment System pada E-Wallet Menggunakan Kode QR Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1511"
+        },
+        {
+            "article_name": "Analisis Algoritma Fuzzy Logic dalam Pengklasifikasian Tugas Akhir",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1401"
+        },
+        {
+            "article_name": "Sistem Informasi Pencarian Lokasi Donor Darah PMI Kota Bandung Berbasis Web",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1408"
+        },
+        {
+            "article_name": "Perancangan al-Quran Player untuk Tunanetra  menggunakan Mikrokontroler dan DFPlayer",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1430"
+        },
+        {
+            "article_name": "Identifikasi Pola Warna Citra Google Maps Menggunakan Jaringan Syaraf Tiruan Metode Levenberg \u00e2\u20ac\u201cMarquardt dengan MatLab Versi 7.8",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1396"
+        },
+        {
+            "article_name": "Teknik Kompresi pada Transmisi Data Citra Payload KOMURINDO",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1512"
+        }
+    ],
+    "Vol 7 No 1 (2018)": [
+        {
+            "article_name": "Estimasi Kecepatan Multi Objek Kendaraan Menggunakan Metode HOG dan Vanishing Point",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1404"
+        },
+        {
+            "article_name": "Hybrid Classifier System:  Support Vector Machines Dikombinasikan dengan K-Nearest Neighbors untuk Menentukan Kelayakan Nasabah Bank dalam Pengajuan Kredit",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1402"
+        },
+        {
+            "article_name": "Lampu PJU Otomatis",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1403"
+        },
+        {
+            "article_name": "Perabot Multi Fungsi Berbasis Mikrokontroler",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1405"
+        },
+        {
+            "article_name": "Rancang-Bangun Aplikasi Pengenalan Penyakit Berbasis Android Menggunakan Metode Na\u00c3\u00afve Bayes",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1508"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Video Wall Berbasis Raspberry Pi pada Majalah Dinding Elektronik",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1507"
+        },
+        {
+            "article_name": "Aplikasi Pembelajaran Menggunakan Web Server Raspberry Pi",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1509"
+        }
+    ],
+    "Vol 6 No 2 (2017)": [
+        {
+            "article_name": "Sistem Aplikasi Pencarian Lokasi Parkir Terdekat Menggunakan Location Based Service Berbasis Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1677"
+        },
+        {
+            "article_name": "Analisis PVS Cloud pada Database Server",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1710"
+        },
+        {
+            "article_name": "Diagnosa Penyakit dengan Gejala Demam pada Manusia Berbasis Mobile : Knowledge Based System",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1607"
+        },
+        {
+            "article_name": "Algoritma Apriori untuk Menampilkan Korelasi Nilai Akademik dengan Kelulusan Mahasiswa: Data Mining",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1706"
+        },
+        {
+            "article_name": "Implementasi Julian Day dalam Penentuan Waktu Shalat",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1629"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Iqra Braille Elektronik  Berbasis Mikrokontroler dan Android",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/1744"
+        }
+    ],
+    "Vol 6 No 1 (2017)": [
+        {
+            "article_name": "IMPLEMENTASI MODUL WIFI NODEMCU ESP8266 UNTUK SMART HOME",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/339"
+        },
+        {
+            "article_name": "RANCANG BANGUN SISTEM INFORMASI JADWAL SHOLAT BERBASIS TV ANDROID",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/340"
+        },
+        {
+            "article_name": "PEMBERI PAKAN HEWAN PELIHARAAN BERBASIS WEB",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/341"
+        },
+        {
+            "article_name": "SISTEM APLIKASI UJIAN PRAKTIKUM ONLINE MENGGUNAKAN MINI PC RASPBERRY PI",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/342"
+        },
+        {
+            "article_name": "Program Studi Teknik Elektro, Fakultas Teknik, Universitas Katolik Indonesia Atma Jaya, Jakarta",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/343"
+        },
+        {
+            "article_name": "PERANCANGAN APLIKASI PENGOLAHAN LOG DATA PACKET SNIFFER UNTUK MENDETEKSI SERANGAN INTERNET WORMS PADA JARINGAN KOMPUTER",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/344"
+        }
+    ],
+    "Vol 3 No 1 (2014)": [
+        {
+            "article_name": "Sistem Monitoring Menggunakan Mini PC Raspberry Pi",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/92"
+        },
+        {
+            "article_name": "Rancang Bangun Perangkat Elektronik Penampil Teks dalam Kode Braille Berbasis Mikrokontroler",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/93"
+        },
+        {
+            "article_name": "Kendali Jarak Jauh Gedung Menggunakan Frekuensi Radio",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/94"
+        },
+        {
+            "article_name": "Pengukuran Kinerja Pembelajaran E-Learning di SMAN 3 Cimahi Menggunakan COBIT 4.1 pada Domain DS dan ME",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/95"
+        },
+        {
+            "article_name": "Perangkat Pendukung Forensik Lalu Lintas Jaringan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/96"
+        }
+    ],
+    "Vol 2 No 2 (2013)": [
+        {
+            "article_name": "MEMANFAATKAN BIG DATA UNTUK MENDETEKSI EMOSI",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5164"
+        },
+        {
+            "article_name": "PENGUKUR PERCEPATAN GRAVITASI MENGGUNAKAN GERAK HARMONIK SEDERHANA METODE BANDUL",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5165"
+        },
+        {
+            "article_name": "RANCANG BANGUN PERANGKAT PEMANTAU SHELTER BTS",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5166"
+        },
+        {
+            "article_name": "IMPLEMENTASI DAN PENGUJIAN ALGORITMA PARALLEL KALMAN FILTER PADA PLATFORM KOMPUTER MULTICORE",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5167"
+        },
+        {
+            "article_name": "FABRIKASI CHIP MASKED-READ ONLY MEMORY 112 BITS DENGAN TEKNOLOGI N-CHANNEL METAL OXIDE SEMICONDUCTOR (N-MOSFET)",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5168"
+        },
+        {
+            "article_name": "PERANCANGAN DAN IMPLEMENTASI PROXY SERVER UNTUK FILTERING BERDASARKAN ALAMAT SITUS DAN ALAMAT IP",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5169"
+        }
+    ],
+    "Vol 2 No 1 (2013)": [
+        {
+            "article_name": "Pengatur Kadar Alkohol dalam Larutan",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5149"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Kalkulator Subnetting Berbasis Web",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5159"
+        },
+        {
+            "article_name": "PERANCANGAN APLIKASI PENGOLAHAN CITRA TEKS ARAB DAN  PENERJEMAHANNYA KE DALAM BAHASA INDONESIA MENGGUNAKAN  SMARTPHONE ANDROID",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5160"
+        },
+        {
+            "article_name": "IMPLEMENTASI PENGATURAN DAN PRIORITAS BANDWIDTH DENGAN  HIERARCHICAL TOKEN BUCKET BERBASISKAN GUI PADA LINUX SERVER  CLEAROS",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5161"
+        },
+        {
+            "article_name": "ANALISA KUALITAS LAYANAN APLIKASI VOIP DAN IMPLEMENTASI PENGGUNAAN  LINUX ZENTYAL SEBAGAI  PENYEDIA LAYANAN VOIP",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5162"
+        },
+        {
+            "article_name": "RANCANG BANGUN PENGGUNAAN METODE IMPRESSED CURRENT CATHODIC PROTECTION PADA LOGAM BERBASIS MIKROKONTROLER",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/5163"
+        }
+    ],
+    "Vol 1 No 2 (2012)": [
+        {
+            "article_name": "Penerapan Jaringan Syaraf Tiruan (JST) Untuk Mendeteksi Pola Gambar Pada Permukaan Yang Memiliki Corak Tertentu",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/7"
+        },
+        {
+            "article_name": "Perancangan Alat Uji Kebisingan Knalpot Sepeda Motor Berbasis Mikrokontroler PIC16F877A",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/17"
+        },
+        {
+            "article_name": "Perancangan Pengukur Magnitudo dan Arah Gempa Menggunakan Sensor Accelerometer ADXL330 Melalui Telemetri",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/100"
+        },
+        {
+            "article_name": "Pemodelan Monitoring Distribusi Bantuan Bencana Alam Berbasis Website",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/104"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Antena Helikal untuk Penggunaan Frekuensi L-Band",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/106"
+        },
+        {
+            "article_name": "Perancangan dan Implementasi Alat Penentu Arah Kiblat Portable",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/107"
+        }
+    ],
+    "Vol 1 No 1 (2012)": [
+        {
+            "article_name": "Pengindera Parameter Meteorologi dan Penentuan Arah Gerak pada Payload",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/108"
+        },
+        {
+            "article_name": "Rancang Bangun Sistem Kendali Posisi, Kesetimbangan dan Navigasi untuk Prototipe Nano Satelit",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/109"
+        },
+        {
+            "article_name": "Efek Perambatan Gelombang Seismik Menggunakan Jaringan Syaraf Tiruan (JST) dan Seismic UNIX (SU) dalam Batuan Gamping",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/110"
+        },
+        {
+            "article_name": "Simulasi Pengolahan Sinyal Dijital Filter Adaptif Menggunakan Algoritma LMS, RLS, Fast Kalman, dan GAL",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/114"
+        },
+        {
+            "article_name": "Desain dan Imlpementasi Sistem Pemantau Cuaca Transmisi Nirkabel",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/115"
+        },
+        {
+            "article_name": "Pengendalian Sudut pada Pergerakan Teleskop Refraktor Menggunakan Personal Computer",
+            "url": "https://ojs.unikom.ac.id/index.php/komputika/article/view/116"
+        }
+    ]
+}

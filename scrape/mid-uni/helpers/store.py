@@ -5,6 +5,12 @@ class Store:
         pass
 
     def storeJson(self, data, filename):
-        # save to json file in this directory
-        with open(filename, 'w') as outfile:
-            json.dump(data, outfile, indent=4)
+        try:
+            # save to json file in this directory
+            with open(filename, 'w') as outfile:
+                json.dump(data, outfile, indent=4)
+
+            return True
+        except Exception as e:
+            return False
+        

@@ -13,7 +13,7 @@ class Request:
 
         return html
 
-    def parseHtml(self, url):
+    def getSoup(self, url):
         # get the html
         html = self.getHtml(url)
 

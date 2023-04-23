@@ -1,12 +1,15 @@
 from scrapers.issue import Issue
-from helpers.store import Store
+from scrapers.articles import Articles
 
 def main():
+    # scrape issues
     issue = Issue()
-    issues = issue.scrapeIssues()
+    issue.scrapeIssues()
 
-    store = Store()
-    store.storeJson(issues, "issues.json")
+    # scrape articles
+    articles = Articles()
+    articles.scrapeArticles()
 
+    
 if __name__ == "__main__":
     main() 

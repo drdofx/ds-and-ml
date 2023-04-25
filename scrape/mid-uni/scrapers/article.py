@@ -3,7 +3,7 @@ from helpers.store import Store
 import time
 import json
 
-class Articles:
+class Article:
     def __init__(self):
         try:
             # read issues.json
@@ -13,13 +13,23 @@ class Articles:
             print("Error: ", e)
             exit()
 
+        try:
+            # read articles.json
+            with open('output/json/articles.json') as json_file:
+                self.articles = json.load(json_file)
+        except:
+            self.articles = {}
+            self.article_count = 0
+
         self.request = Request()
         self.store = Store()
-        self.articles = {}
-        self.article_count = 0
 
     def scrapeArticles(self):
         print("Scraping articles...")
+
+        if len(self.articles) > 0:
+            print("Articles already scraped!\n")
+            return
 
         for i in range(0, len(self.issues)):
             issue_name = self.issues[i]['issue']

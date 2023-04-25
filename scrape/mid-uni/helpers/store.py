@@ -14,3 +14,10 @@ class Store:
         except Exception as e:
             return False
         
+    def checkFileExists(self, filename):
+        try:
+            # open file
+            with open(filename, 'r'):
+                return True
+        except Exception as e:
+            return False

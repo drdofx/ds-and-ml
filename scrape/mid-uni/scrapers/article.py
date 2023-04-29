@@ -1,17 +1,15 @@
-from helpers.request import Request
-from helpers.store import Store
 import time
 import json
 
 class Article:
-    def __init__(self):
-        try:
-            # read issues.json
-            with open('output/json/issues.json') as json_file:
-                self.issues = json.load(json_file)
-        except Exception as e:
-            print("Error: ", e)
-            exit()
+    def __init__(self, request, store, issues):
+        self.request = request
+        self.store = store
+        self.issues = issues
+
+        if len(self.issues) == 0:
+            print("Issues not scraped yet!\n")
+            return False
 
         try:
             # read articles.json
@@ -21,15 +19,12 @@ class Article:
             self.articles = {}
             self.article_count = 0
 
-        self.request = Request()
-        self.store = Store()
-
     def scrapeArticles(self):
         print("Scraping articles...")
 
         if len(self.articles) > 0:
             print("Articles already scraped!\n")
-            return
+            return self.articles
 
         for i in range(0, len(self.issues)):
             issue_name = self.issues[i]['issue']
@@ -44,7 +39,12 @@ class Article:
         # store json
         store_json = self.store.storeJson(self.articles, "output/json/articles.json")
 
-        print("Scraping articles done!\n") if store_json else print("Scraping articles failed!\n")
+        if store_json:
+            print("Storing articles json done!\n")
+            return self.articles
+        else:
+            print("Storing articles json failed!\n")
+            return False
 
     def scrapeArticlesInAnIssue(self, issue_name, issue_url):
         print(f"Scraping articles in issue {issue_name}...")

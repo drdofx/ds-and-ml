@@ -1,12 +1,10 @@
-from helpers.request import Request
-from helpers.store import Store
 import json
 
 class Issue:
-    def __init__(self):
+    def __init__(self, request, store):
+        self.request = request
+        self.store = store
         self.start_url = "https://ojs.unikom.ac.id/index.php/komputika/issue/archive"
-        self.request = Request()
-        self.store = Store()
         
         try:
             # read issues.json
@@ -49,6 +47,11 @@ class Issue:
         # store json
         store_json = self.store.storeJson(self.issues, "output/json/issues.json")
 
-        print("Scraping issues done!\n") if store_json else print("Scraping issues failed!\n")
+        if store_json:
+            print("Storing issues json done!\n")
+            return self.issues
+        else:
+            print("Storing issues json failed!\n")
+            return False
 
 

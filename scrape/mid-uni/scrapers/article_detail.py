@@ -1,36 +1,32 @@
-from helpers.request import Request
-from helpers.store import Store
 import json
 import time
 
-
 class ArticleDetail:
-    def __init__(self):
-        self.request = Request()
-        self.store = Store()
-        try:
-            # read articles.json
-            with open('output/json/articles.json') as json_file:
-                self.articles = json.load(json_file)
-        except Exception as e:
-            print("Error: ", e)
-            exit()
+    def __init__(self, request, store, articles):
+        self.request = request
+        self.store = store
+        self.articles = articles
+
+        if len(self.articles) == 0:
+            print("Articles not scraped yet!\n")
+            return False
 
     def scrapeArticleDetails(self):
         print("Scraping article details...")
         
-        if len(self.articles) > 0:
-            print("Articles details already scraped!\n")
-            return
+        has_article_detail = False
 
         # scrape article details for each article in each issue
         for issue_name in self.articles:
             for article in self.articles[issue_name]:
                 # skip if article detail already scraped
                 if 'file_url' in article:
-                    print(f"Article detail already scraped in article: {article['article_name']}!\n")
-
+                    # set has_article_detail to True
+                    has_article_detail = True
                     continue
+
+                # set has_article_detail to False
+                has_article_detail = False
 
                 # scrape article details in an article
                 self.scrapeArticleDetailsInAnArticle(article)
@@ -38,12 +34,18 @@ class ArticleDetail:
                 # sleep for 1 second
                 time.sleep(1)
             
-            # store json of an issue 
+            # if has_article_detail is True, return
+            if has_article_detail:
+                print(f"Article details already scraped!\n")
+                return self.articles
+
+            # store json of articles 
             store_json = self.store.storeJson(self.articles, "output/json/articles.json")
 
             print(f"Scraping article details in issue: {issue_name} done!\n") if store_json else print(f"Scraping article details in issue: {issue_name} failed!\n")
 
         print("Scraping all article details done!\n")
+        return self.articles
 
     def scrapeArticleDetailsInAnArticle(self, article):
         print(f"Scraping article details in article: {article['article_name']}...")

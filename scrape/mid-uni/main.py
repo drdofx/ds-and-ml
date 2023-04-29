@@ -14,7 +14,7 @@ class Application:
         self.article = Article(request, store, self.issue.issues)
         self.article_detail = ArticleDetail(request, store, self.article.articles)
         self.article_file = ArticleFile(request, store, self.article.articles)
-        self.reader = Reader('output/pdf/1.pdf')
+        self.reader = Reader('output/pdf/14.pdf')
 
     def runScraping(self):
         logging.info("Scraping started")
@@ -30,7 +30,13 @@ class Application:
         logging.info("Reading started")
 
         text = self.reader.readPdf()
-        print(text)
+
+        if text is None:
+            logging.error("File not found")
+            return
+
+        for key, value in text.items():
+            print(key, value)
 
         logging.info("Reading finished")
 

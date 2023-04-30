@@ -19,12 +19,7 @@ class ArticleFile:
         # download article for each article in each issue
         for issue_name in self.articles:
             for article in self.articles[issue_name]:
-                # skip if article file already downloaded
-                if 'file_path' in article:
-                    # set has_article_file to True
-                    has_article_file = True
-                    continue
-
+                
                 # download article file in an article
                 file_path = self.downloadArticlePdf(article['file_url'])
 

@@ -42,7 +42,7 @@ class Reader:
 
     def extractNew(self, text):
         # find title
-        start = 'https://ojs.unikom.ac.id/index.php/komputika'
+        start = 'index.php/komputika'
         start_pos = text.lower().find(start.lower()) + len(start)
 
         end_pos = start_pos
@@ -53,11 +53,15 @@ class Reader:
 
         title = ' '.join(text[start_pos:end_pos].strip().split())
 
+        # if title contains 'Copyright' or 'Terakreditasi', just set it to '' (extract title failed)
+        if 'Copyright' in title or 'Terakreditasi' in title:
+            title = ''
+
         # find abstract with ignoring case
         start = 'ABSTRAK'
         end = 'Kata kunci'
 
-        abstract = text[text.lower().find(start.lower())+len(start):text.lower().find(end.lower())].strip()
+        abstract = text[text.lower().find(start.lower())+len(start):text.lower().find(end.lower())].replace('\n', '').replace('\u2013', '').strip()
         
         # find keywords with ignoring case
         start = 'Kata Kunci'
@@ -69,7 +73,7 @@ class Reader:
             if not text[end_pos:end_pos+1].isspace():  # check if the next line is not empty
                 break
 
-        keywords = text[start_pos:end_pos].strip()
+        keywords = text[start_pos:end_pos].replace('\u2013', '').strip()
 
         return {
             'title': title,
@@ -93,7 +97,12 @@ class Reader:
 
                 # add extracted text to extracted.json
                 file_name = file_path.split('/')[-1]
-                self.extracted[file_name] = extracted
+                self.extracted[file_name] = {
+                    'actual_title': article['article_name'],
+                    'extracted_title': extracted['title'],
+                    'abstract': extracted['abstract'],
+                    'keywords': extracted['keywords']
+                }
 
                 # add count
                 self.extracted_count += 1
@@ -107,6 +116,9 @@ class Reader:
             print(f"succesfully extracted text from pdf in {issue_name}!\n")
 
         print(f"Total {self.extracted_count} pdf extracted!\n")
+
+        export_excel = self.store.exportExcel(self.extracted, 'output/excel/extracted.xlsx')
+        return export_excel
 
     def readPdfProcess(self, file_path, old_format):
         try:

@@ -31,13 +31,14 @@ class Application:
 
     def runReading(self):
         try:
-            logging.info("Reading started")
+            logging.info("Reading and exporting started")
 
-            text = self.reader.readPdfProcess('output/pdf/14.pdf', True)
+            export = self.reader.readPdf()
 
-            print(text)
+            if export:
+                logging.error(export)
 
-            logging.info("Reading finished")
+            logging.info("Reading and exporting finished")
         except Exception as e:
             logging.error(e)
 

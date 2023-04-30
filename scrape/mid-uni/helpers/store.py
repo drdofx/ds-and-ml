@@ -35,10 +35,10 @@ class Store:
             worksheet = workbook.add_worksheet('Komputika')
             worksheet.set_column('A:A', 5)
             worksheet.set_column('B:B', 10)
-            worksheet.set_column('C:C', 30)
-            worksheet.set_column('D:D', 30)
-            worksheet.set_column('E:E', 70)
-            worksheet.set_column('F:F', 30)
+            worksheet.set_column('C:C', 25)
+            worksheet.set_column('D:D', 25)
+            worksheet.set_column('E:E', 100)
+            worksheet.set_column('F:F', 25)
             worksheet.set_row(0, 30)
             worksheet.merge_range(0, 0, 0, 5, 'Komputika: Jurnal Sistem Komputer', title)
             worksheet.write(1, 0, 'No', bold)
@@ -50,7 +50,7 @@ class Store:
 
             # loop through data dict
             for index, (key, value) in enumerate(data.items()):
-                worksheet.set_row(index + 2, 150)
+                worksheet.set_row(index + 2, 200)
                 worksheet.write(index + 2, 0, index + 1, each_data)
                 worksheet.write(index + 2, 1, key, each_data)
                 worksheet.write(index + 2, 2, value['actual_title'], each_data)

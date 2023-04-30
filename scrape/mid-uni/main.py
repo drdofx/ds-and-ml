@@ -14,31 +14,32 @@ class Application:
         self.article = Article(request, store, self.issue.issues)
         self.article_detail = ArticleDetail(request, store, self.article.articles)
         self.article_file = ArticleFile(request, store, self.article.articles)
-        self.reader = Reader('output/pdf/14.pdf')
+        self.reader = Reader(store, self.article.articles)
 
     def runScraping(self):
-        logging.info("Scraping started")
+        try:
+            logging.info("Scraping started")
 
-        self.issue.scrapeIssues()
-        self.article.scrapeArticles()
-        self.article_detail.scrapeArticleDetails()
-        self.article_file.downloadArticle()
-            
-        logging.info("Scraping finished")
+            self.issue.scrapeIssues()
+            self.article.scrapeArticles()
+            self.article_detail.scrapeArticleDetails()
+            self.article_file.downloadArticle()
+                
+            logging.info("Scraping finished")
+        except Exception as e:
+            logging.error(e)
 
     def runReading(self):
-        logging.info("Reading started")
+        try:
+            logging.info("Reading started")
 
-        text = self.reader.readPdf()
+            text = self.reader.readPdfProcess('output/pdf/14.pdf', True)
 
-        if text is None:
-            logging.error("File not found")
-            return
+            print(text)
 
-        for key, value in text.items():
-            print(key, value)
-
-        logging.info("Reading finished")
+            logging.info("Reading finished")
+        except Exception as e:
+            logging.error(e)
 
 
 def main():
